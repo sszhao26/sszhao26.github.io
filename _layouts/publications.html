@@ -1,0 +1,311 @@
+---
+layout: default
+---
+
+<main id="main" class="site-main clr" role="main">
+  <div id="content-wrap" class="container clr">
+    <div id="primary" class="content-area clr">
+      <div id="content" class="site-content clr">
+        <article class="single-page-article clr">
+          <div class="entry clr" itemprop="text">
+            <div
+            data-elementor-type="wp-page"
+            data-elementor-id="6613"
+            class="elementor elementor-6613"
+          >
+            <section
+              class="elementor-section elementor-top-section elementor-element elementor-element-3245de1b elementor-section-stretched elementor-section-boxed elementor-section-height-default elementor-section-height-default"
+              data-id="3245de1b"
+              data-element_type="section"
+              data-settings='{"background_background":"classic","stretch_section":"section-stretched"}'
+              style="width: 1263px; left: 0px"
+            >
+              <div class="elementor-background-overlay"></div>
+              <div class="elementor-container elementor-column-gap-default">
+                <div
+                  class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-2295d6fe"
+                  data-id="2295d6fe"
+                  data-element_type="column"
+                >
+                  <div
+                    class="elementor-widget-wrap elementor-element-populated"
+                  >
+                    <div
+                      class="elementor-element elementor-element-381d2b6b elementor-widget elementor-widget-heading"
+                      data-id="381d2b6b"
+                      data-element_type="widget"
+                      data-widget_type="heading.default"
+                    >
+                      <div class="elementor-widget-container">
+                        <style>
+                          /*! elementor - v3.20.0 - 26-03-2024 */
+                          .elementor-heading-title {
+                            padding: 0;
+                            margin: 0;
+                            line-height: 1;
+                          }
+                          .elementor-widget-heading
+                            .elementor-heading-title[class*="elementor-size-"]
+                            > a {
+                            color: inherit;
+                            font-size: inherit;
+                            line-height: inherit;
+                          }
+                          .elementor-widget-heading
+                            .elementor-heading-title.elementor-size-small {
+                            font-size: 15px;
+                          }
+                          .elementor-widget-heading
+                            .elementor-heading-title.elementor-size-medium {
+                            font-size: 19px;
+                          }
+                          .elementor-widget-heading
+                            .elementor-heading-title.elementor-size-large {
+                            font-size: 29px;
+                          }
+                          .elementor-widget-heading
+                            .elementor-heading-title.elementor-size-xl {
+                            font-size: 39px;
+                          }
+                          .elementor-widget-heading
+                            .elementor-heading-title.elementor-size-xxl {
+                            font-size: 59px;
+                          }
+                        </style>
+                        <h5
+                          class="elementor-heading-title elementor-size-default"
+                        >
+                          OUR PUBLICATIONS
+                        </h5>
+                      </div>
+                    </div>
+                    <div
+                      class="elementor-element elementor-element-d2142bd elementor-widget elementor-widget-heading"
+                      data-id="d2142bd"
+                      data-element_type="widget"
+                      data-widget_type="heading.default"
+                    >
+                      <div class="elementor-widget-container">
+                        <h2
+                          class="elementor-heading-title elementor-size-default"
+                        >
+                          <span
+                            style="
+                              font-size: 56px;
+                              line-height: 1.3;
+                              font-weight: 700;
+                            "
+                            >Peer-reviewed publications</span
+                          >
+                        </h2>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </section>
+            
+            {% for publication in site.data.publications.list%}
+            <section
+              class="elementor-section elementor-top-section elementor-element elementor-element-750b207b elementor-section-boxed elementor-section-height-default elementor-section-height-default"
+              data-id="750b207b"
+              data-element_type="section"
+            >
+              <div class="elementor-container elementor-column-gap-default">
+                <div
+                  class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-21cde18e"
+                  data-id="21cde18e"
+                  data-element_type="column"
+                >
+                  <div
+                    class="elementor-widget-wrap elementor-element-populated"
+                  >
+                    <section
+                      class="elementor-section elementor-inner-section elementor-element elementor-element-33697845 elementor-section-boxed elementor-section-height-default elementor-section-height-default"
+                      data-id="33697845"
+                      data-element_type="section"
+                    >
+                      <div
+                        class="elementor-container elementor-column-gap-default"
+                      >
+                        <div
+                          class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-1711c6a3"
+                          data-id="1711c6a3"
+                          data-element_type="column"
+                        >
+                          <div
+                            class="elementor-widget-wrap elementor-element-populated"
+                          >
+                            <div
+                              class="elementor-element elementor-element-42f4427d elementor-widget elementor-widget-heading"
+                              data-id="42f4427d"
+                              data-element_type="widget"
+                              data-widget_type="heading.default"
+                            >
+                              <div class="elementor-widget-container">
+                                <h5
+                                  class="elementor-heading-title elementor-size-default"
+                                >
+                                  {{publication.title}}
+                                </h5>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </section>
+                    <section
+                      class="elementor-section elementor-inner-section elementor-element elementor-element-71da3a33 elementor-section-boxed elementor-section-height-default elementor-section-height-default"
+                      data-id="71da3a33"
+                      data-element_type="section"
+                    >
+                      <div
+                        class="elementor-container elementor-column-gap-default"
+                      >
+                        <div
+                          class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-1c33dc53"
+                          data-id="1c33dc53"
+                          data-element_type="column"
+                        >
+                          <div
+                            class="elementor-widget-wrap elementor-element-populated"
+                          >
+                            <div
+                              class="elementor-element elementor-element-60445932 elementor-widget elementor-widget-heading"
+                              data-id="60445932"
+                              data-element_type="widget"
+                              data-widget_type="heading.default"
+                            >
+                              <div class="elementor-widget-container">
+                                <h4
+                                  class="elementor-heading-title elementor-size-medium"
+                                >
+                                  <a
+                                    href="https://dl.acm.org/doi/10.1145/3571722"
+                                    target="_blank"
+                                    >{{publication.heading}}<br /><br
+                                  /></a>
+                                </h4>
+                              </div>
+                            </div>
+                            <div
+                              class="elementor-element elementor-element-7787f426 elementor-widget elementor-widget-text-editor"
+                              data-id="7787f426"
+                              data-element_type="widget"
+                              data-widget_type="text-editor.default"
+                            >
+                              <div class="elementor-widget-container">
+                                <style>
+                                  /*! elementor - v3.20.0 - 26-03-2024 */
+                                  .elementor-widget-text-editor.elementor-drop-cap-view-stacked
+                                    .elementor-drop-cap {
+                                    background-color: #69727d;
+                                    color: #fff;
+                                  }
+                                  .elementor-widget-text-editor.elementor-drop-cap-view-framed
+                                    .elementor-drop-cap {
+                                    color: #69727d;
+                                    border: 3px solid;
+                                    background-color: transparent;
+                                  }
+                                  .elementor-widget-text-editor:not(
+                                      .elementor-drop-cap-view-default
+                                    )
+                                    .elementor-drop-cap {
+                                    margin-top: 8px;
+                                  }
+                                  .elementor-widget-text-editor:not(
+                                      .elementor-drop-cap-view-default
+                                    )
+                                    .elementor-drop-cap-letter {
+                                    width: 1em;
+                                    height: 1em;
+                                  }
+                                  .elementor-widget-text-editor
+                                    .elementor-drop-cap {
+                                    float: left;
+                                    text-align: center;
+                                    line-height: 1;
+                                    font-size: 50px;
+                                  }
+                                  .elementor-widget-text-editor
+                                    .elementor-drop-cap-letter {
+                                    display: inline-block;
+                                  }
+                                </style>
+                                <p>
+                                  {{publication.authors}}
+                                </p>
+                              </div>
+                            </div>
+                            <div
+                              class="elementor-element elementor-element-328b9b7 elementor-widget elementor-widget-text-editor"
+                              data-id="328b9b7"
+                              data-element_type="widget"
+                              data-widget_type="text-editor.default"
+                            >
+                              <div class="elementor-widget-container">
+                                <p>
+                                  <em
+                                    >Keywords:
+                                    <span dir="ltr" role="presentation"
+                                      >
+                                      {{publication.keywords}}</span
+                                    ><br
+                                  /></em>
+                                </p>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                        <div
+                          class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-3015075a"
+                          data-id="3015075a"
+                          data-element_type="column"
+                        >
+                          <div
+                            class="elementor-widget-wrap elementor-element-populated"
+                          >
+                            <div
+                              class="elementor-element elementor-element-20ca3de5 elementor-align-center elementor-widget elementor-widget-button"
+                              data-id="20ca3de5"
+                              data-element_type="widget"
+                              data-widget_type="button.default"
+                            >
+                              <div class="elementor-widget-container">
+                                <div class="elementor-button-wrapper">
+                                  <a
+                                    class="elementor-button elementor-button-link elementor-size-sm"
+                                    href="https://www.nus-hci.org/wp-content/uploads/2023/09/Zhao-S-et-al-2023-Heads-Up-Computing-Moving-Beyond-the-Device-Centered-Paradigm.pdf"
+                                    target="_blank"
+                                  >
+                                    <span
+                                      class="elementor-button-content-wrapper"
+                                    >
+                                      <span class="elementor-button-text"
+                                        >VIEW PDF</span
+                                      >
+                                    </span>
+                                  </a>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </section>
+                  </div>
+                </div>
+              </div>
+            </section>
+            {% endfor %}
+            </div>
+          </div>
+        </article>
+      </div>
+      <!-- #content -->
+    </div>
+    <!-- #primary -->
+  </div>
+  <!-- #content-wrap -->
+</main>

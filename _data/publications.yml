@@ -1,0 +1,671 @@
+list:
+  
+  - title:  Communications of the ACM 2023
+    heading: "Heads-Up Computing: Moving Beyond the Device-Centered Paradigm"
+    authors: Shengdong Zhao, Felicia Tan, Katherine Fennedy
+    keywords: heads-up, human-centered, paradigm
+
+  - title:    IMWUT 2023
+    heading: "GlassMessaging: Towards Ubiquitous Messaging Using OHMDs"
+    authors: Nuwan Janaka, Jie Gao, Lin Zhu, Shengdong Zhao, Lan Lyu, Peisen Xu, Maximilian Nabokow, Silang Wang, Yanch Ong
+    keywords: texting, messaging, heads-up computing, smart glasses, OST-HMD
+    
+  - title:    
+    heading: "VidAdapter: Adapting Blackboard-Style Videos for Ubiquitous Viewing"
+    authors: Ashwin Ram, Han Xiao, Shengdong Zhao, Chi-Wing Fu
+    keywords: content adaptation; ubiquitous learning; video lectures; smart glasses
+
+  - title:    INTERACT 2023
+    heading: "AdaptReview: Towards Effective Video Review Using Text Summaries and Concept Maps"
+    authors: Shan Zhang, Yang Chen, Nuwan Janaka, Chloe Haigh, Shengdong Zhao, and Wei Tsang Ooi
+    keywords: video review, concept map, text summary
+
+  - title:    DIS 2023
+    heading: "Mindful Moments: Exploring On-the-go Mindfulness Practice On Smart-glasses"
+    authors: Felicia Tan, Ashwin Ram, Chloe Haigh, Shengdong Zhao
+    keywords: Smart glasses, Mindfulness, OHMD, On-the-go, Breath-based guidance
+
+  - title:    ISMAR Adjunct 2023
+    heading: "Minimizing Attention Costs of Visual OHMD Notifications"
+    authors: Nuwan Janaka
+    keywords: notification, attention, OHMD, OST HMD, interruption, smart glasses,
+
+  - title:    CHI EA 2023
+    heading: "NotiFade: Minimizing OHMD Notification Distractions Using Fading"
+    authors: Nuwan Janaka, Shengdong Zhao, Samantha W.T. Chan
+    keywords: notifcation, smart glasses, OHMD, OST HMD, fading, interruption, distraction, animation, fade, scroll
+
+  - title:    CHI 2023
+    heading: "Can Icons Outperform Text? Understanding the Role of Pictograms in OHMD Notifications"
+    authors: Nuwan Janaka, Shengdong Zhao, Shardul Sapkota
+    keywords: notification, OHMD, OST HMD, smart glasses, pictogram, icon, interruption, distraction
+
+  - title:    
+    heading: "ParaGlassMenu: Towards Social-Friendly Subtle Interactions in Conversations"
+    authors: Runze Cai, Nuwan Janaka, Shengdong Zhao, Minghui Sun
+    keywords: IoT manipulation, circular menu, ring interaction, social interaction, conversation, HMD, smart glasses, Internet-of-Things
+
+  - title:    
+    heading: "Not All Spacings are Created Equal: The Effect of Text Spacings in On-the-go Reading Using Optical See-Through Head-Mounted Displays"
+    authors: Chen Zhou, Katherine Fennedy, Felicia Fang-Yi Tan, Shengdong Zhao, Yurui Shao
+
+    keywords: Text Spacing, Inter-line Spacing, Inter-word Spacing, Reading on-the-go, Mobile Reading, Heads-up Computing, OHMD, SmartGlasses
+
+  - title:    IJHCS 2023
+    heading: "BackTracer: Improving ray-casting 3D target acquisition by backtracking the interaction history"
+    authors: Kaiqi Chen, Huagen Wan, Shengdong Zhao, Xutao Liu
+
+    keywords: Target acquisition, 3D selection, Ray-casting, Backtracking time interval, Interaction history
+
+  - title:    IMWUT 2022
+    heading: "SSpoon: A Shape-changing Spoon That Optimizes Bite Size for Eating Rate Regulation"
+    authors: Yang Chen, Katherine Fennedy, Anna Fogel, Shengdong Zhao, Chao Zhang, Lijuan Liu and Chingchiuan Yen
+
+    keywords: Shape-changing interfaces; Eating rate; Human food interaction; Empirical study
+
+  - title:    CHI 2022
+    heading: "Does Dynamically Drawn Text Improve Learning? Investigating the Effect of Text Presentation Styles in Video Learning"
+    authors: Ashwin Ram and Shengdong Zhao
+    keywords: Dynamic drawing, Text presentation styles, Video learning, Heads-up computing, Mobile HCI, Smart-glasses, OHMD
+
+  - title:    
+    heading: "Paracentral and near-peripheral visualizations: Towards attention-maintaining secondary information presentation on OHMDs during in-person social interactions"
+    authors: Nuwan Janaka, Chloe Haigh, Hyeongcheol Kim, Shan Zhang, and Shengdong Zhao
+
+    keywords: paracentral, near-peripheral, social interaction, conversation, circular progress, reminder notification, interruption, HMD, smart glasses
+
+  - title:    CoRR 2022
+    heading: "Visual Behaviors and Mobile Information Acquisition"
+    authors: Nuwan Janaka, Xinke Wu, Shan Zhang, Shengdong Zhao, and Petr Slovak
+
+    keywords: Visual behaviors, Attention fragmentation, Mobile information acquisition, Microlearning on the move, Shadowing, HMD, Smart glasses, Mobile phones
+
+  - title:    IMWUT 2021
+    heading: "LSVP: Towards Effective On-the-go Video Learning Using Optical Head-Mounted Displays"
+
+    authors: Ashwin Ram and Shengdong Zhao
+
+    keywords: Smart glasses, dynamic information
+
+  - title:    SENSORS 2021
+    heading: "Affective Colormap Design for Accurate Visual Comprehension in Industrial Tomography"
+
+    authors: Yuchong Zhang, Morten Fjeld, Marco Fratarcangeli, Alan Said, and Shengdong Zhao
+    keywords: affective colormap design; human perception; visualization; crowdsourced study; microwave tomography
+  - title:    Moment-to-Moment Continuous Attention Fluctuation Monitoring through Consumer-Grade EEG Device
+
+    heading: "Shan Zhang, Zihan Yan, Shardul Sapkota, Shengdong Zhao, and Wei Tsang Ooi"
+    keywords: EEG; moment-to-moment; attention detection; wearable; machine learning
+  - title:    ISMAR 2021
+    heading: "Exploring Head-based Mode-Switching in Virtual Reality"
+    authors: Rongkai Shi, Nan Zhu, Hai-Ning Liang, Shengdong Zhao
+
+    keywords: Human-centered computing—Human computer interaction (HCI)—Interaction paradigms—Virtual reality; Human-centered computing—Human computer interaction (HCI)— Empirical studies in HCI;
+
+  - title:    MobileHCI 2021
+    heading: "Ubiquitous Interactions for Heads-Up Computing: Understanding Users' Preferences for Subtle Interaction Techniques in Everyday Settings"
+    authors: Shardul Sapkota, Ashwin Ram, Shengdong Zhao
+
+    keywords: Subtle Interactions; Wearable Computing; Smart Glasses; Heads-up Computing; Thumb-index-fnger Interaction
+
+  - title:    CoRR 2021
+    heading: "Exploring Head-based Mode-Switching in Virtual Reality"
+    authors: Rongkai Shi, Nan Zhu, Hai-Ning Liang, Shengdong Zhao
+
+    keywords: Human-centered computing—Human computer interaction (HCI)—Interaction paradigms—Virtual reality; Human-centered computing—Human computer interaction (HCI)— Empirical studies in HCI;
+
+  - title:    CHI 2020
+    heading: "EYEditor: Towards On-the-Go Heads-Up Text Editing Using Voice and Manual Input"
+    authors: Debjyoti Ghosh, Pin Sym Foong, Shengdong Zhao, Can Liu, Nuwan Janaka, and Vinitha Erusu
+    keywords: manual-input, text editing, wearable interaction, re-speaking, heads-up interaction, smart glass, mobile interaction, voice interaction, eyeditor
+  - title:    
+    heading: "Learn with Haptics: Improving Vocabulary Recall with Free-form Digital Annotation on Touchscreen Mobiles"
+    authors: Smitha Sheshadri, Shengdong Zhao, Yang Chen, and Morten Fjeld
+    keywords: multimodal learning, intersensory reinforced learning, motoric engagement, haptics for learning, mobile vocabulary learning
+  - title:    
+    heading: "Virtually-Extended Proprioception: Providing Spatial Reference in VR through an Appended Virtual Limb"
+    authors: Yang Tian, Yuming Bai, Shengdong Zhao, Chi-Wing Fu, Tianpei Yang, and Pheng Ann Heng
+    keywords: proprioception, virtual reality, target selection, appended limb, spatial reference
+  - title:    ToCHI 2020
+    heading: "Commanding and Re-Dictation: Developing Eyes-Free Voice-Based Interaction for Editing Dictated Text"
+    authors: Debjyoti Ghosh, Can Liu, Shengdong Zhao, and Kotaro Hara
+    keywords: commanding, eyes-free, voice-based text editing, Text editing, voice interaction, re-dictation, voice user interfaces
+  - title:    CSCW 2020
+    heading: "From Lost to Found: Discover Missing UI Design Semantics through Recovering Missing Tags"
+    authors: Chunyang Chen, Sidong Feng, Zhengyang Liu, Zhenchang Xing, and Shengdong Zhao
+    keywords: graphical user interface, deep learning, semantics, designers, tags
+  - title:    CoRR 2020
+    heading: "From Lost to Found: Discover Missing UI Design Semantics through Recovering Missing Tags"
+    authors: Chunyang Chen, Sidong Feng, Zhengyang Liu, Zhenchang Xing, and Shengdong Zhao
+    keywords: graphical user interface, deep learning, semantics, designers, tags
+  - title:    MobileHCI 2020
+    heading: "LiveSnippets: Voice-based Live Authoring of Multimedia Articles about Experiences"
+    authors: Hyeongcheol Kim, Shengdong Zhao, Can Liu, Kotaro Hara
+    keywords: in-situ voice-based multimedia authoring, voice-based multimedia documentation, multimedia authoring in situ
+
+  - title:    ICIS 2020
+    heading: "Practical Empathy: The Duality of Social and Transactional Roles of Conversational Agents in Giving Health Advice"
+    authors: Debjyoti Ghosh and Isam Faik
+    keywords: practical Empathy, conversational agents, healthcare, user expectation, duality, social and transactional expectations, health advice, agent response
+  - title:    CHI EA 2020
+    heading: "Considering Wake Gestures for Smart Assistant Use"
+    authors: Patryk Pomykalski, Mikołaj P. Woźniak, Paweł W. Woźniak, Krzysztof Grudzień, Shengdong Zhao, and Andrzej Romanowski
+    keywords: smart speaker, gestural input, smart assistant, gesture, gesture elicitation
+  - title:    ACM 2020
+    heading: "CHI '20: CHI Conference on Human Factors in Computing Systems, Honolulu, HI, USA, April 25-30, 2020"
+    authors: Regina Bernhaupt, Florian ‘Floyd’ Mueller, David Verweij, Josh Andres, Joanna McGrenere, Andy Cockburn, Ignacio Avellino, Alix Goguey, Pernille Bjøn, Shengdong Zhao, Briane Paul Samson, Rafal Kocielnik
+
+    keywords:
+
+  - title:    
+    heading: "Extended Abstracts of the 2020 CHI Conference on Human Factors in Computing Systems, CHI 2020, Honolulu, HI, USA, April 25-30, 2020"
+    authors: Regina Bernhaupt, Florian ‘Floyd’ Mueller, David Verweij, Josh Andres, Joanna McGrenere, Andy Cockburn, Ignacio Avellino, Alix Goguey, Pernille Bjøn, Shengdong Zhao, Briane Paul Samson, Rafal Kocielnik
+
+    keywords:
+
+  - title:    J Med Internet Res 2020
+    heading: "A Clinical Teaching Blended Learning Program to Enhance Registered Nurse Preceptors’ Teaching Competencies: Pretest and Posttest Study"
+    authors: Xi Vivien Wu, Yuchen Chi1, Umadevi Panneer Selvam, M Kamala Devi1, Wenru Wang, Yah Shih Chan, Fong Chi Wee, Shengdong Zhao, Vibhor Sehgal, and Neo Kim Emily Ang
+    keywords: blended learning, case-based learning, clinical pedagogy, clinical teaching competency, web-based program, nurse preceptor
+  - title:    Nurse Education Today 2020
+    heading: "A web-based clinical pedagogy program to enhance registered nurse preceptors' teaching competencies – An innovative process of development and pilot program evaluation"
+    authors: Xi Vivien Wu, Yuchen Chi, Yah Shih Chan, Wenru Wang, Emily Neo Kim Ang, Shengdong Zhao, Vibhor Sehgal, Fong Chi Wee, Umadevi Panneer Selvam, and M. Kamala Devi
+    keywords: clinical pedagogy, teaching competency, web-based program, nurse preceptor
+  - title:    IMWUT 2019
+    heading: "Enhancing Augmented VR Interaction via Egocentric Scene Analysis"
+    authors: Yang Tian, Chi-Wing Fu, Shengdong Zhao, Ruihui Li, Xiao Tang, Xiaowei Hu, and Pheng-Ann Heng
+    keywords: virtual reality, visual tool, deep learning, scene analysis, depth sensing, egocentric view, visual guidance, augmented VR interaction
+  - title:    CSCW 2019
+    heading: "Gallery D.C.: Design Search and Knowledge Discovery through Auto-created GUI Component Gallery"
+    authors: Chunyang Chen, Sidong Feng, Zhenchang Xing, Linda Liu, Shengdong Zhao, and Jinshui Wang
+    keywords: object detection, multi-faceted design search, design demographics, gui design, mobile application, design comparison
+  - title:    Interact 2019
+    heading: "ScaffoMapping: Assisting Concept Mapping for Video Learners"
+    authors: Shan Zhang, Xiaojun Meng, Can Liu, Shengdong Zhao, Vibhor Sehgal, and Morten Fjeld
+    keywords: concept map, scaffolding, video learning
+  - title:    
+    heading: "Investigating Feedback for Two-Handed Exploration of Digital Maps Without Vision"
+    authors: Sandra Bardot, Marcos Serrano, Simon Perrault, Shengdong Zhao, and Christophe Jouffrais
+    keywords: users with visual impairment, accessibility Wearable devices, smartwatches, multimodal feedback, map exploration
+  - title:    CHI 2018
+    heading: "EDITalk: Towards Designing Eyes-free Interactions for Mobile Word Processing"
+    authors: Debjyoti Ghosh, Pin Sym Foong, Shengdong Zhao, Di Chen, and Morten Fjeld
+    keywords: eyes-free interfaces, voice-based word processing, barge-in, conversational ui, eyes-free interaction design
+  - title:    
+    heading: "Harvesting Caregiving Knowledge: Design Considerations for Integrating Volunteer Input in Dementia Care"
+    authors: Pin Sym Foong, Shengdong Zhao, Felicia Tan, and Joseph Jay Williams
+    keywords: health, dementia care, caregiving, volunteers
+  - title:    AVI 2018
+    heading: "Movespace: on-body athletic interaction for running and cycling"
+    authors: Velko Vechev, Alexandru Dancu, Simon T. Perrault, Quentin Roy, Morten Fjeld, and Shengdong Zhao
+    keywords: on-body interaction, cycling, running, interaction in motion, sports training
+  - title:    IUI 2018
+    heading: "AVEID: Automatic Video System for Measuring Engagement In Dementia"
+    authors: Viral Parekh, Pin Sym Foong, Shengdong Zhao, and Ramanathan Subramanian
+    keywords: video-based analytics, dementia, engagement
+  - title:    ChineseCHI 2018
+    heading: "Assessing the Utility of the System Usability Scale for Evaluating Voice-based User Interfaces"
+    authors: Debjyoti Ghosh, Pin Sym Foong, Shan Zhang, and Shengdong Zhao
+    keywords: voice-based user interface, evaluation, conversational user interface, voice user interface
+  - title:    
+    heading: "Teach Me Fast: How to Optimize Online Lecture Video Speeding for Learning in Less Time?"
+    authors: Devangini Patel, Debjyoti Ghosh, and Shengdong Zhao
+    keywords: speaker’s speech rate, video speed prediction, video speed modelling, online video learning, video player interface, video speed
+  - title:    IJHC 2017
+    heading: "Editorial of the Special Issue on Mobile Human-Computer Interaction"
+    authors: Fiona Fui-Hoon Nah, Dongsong Zhang, John Krogstie, Shengdong Zhao
+
+    keywords:
+
+  - title:    CHI 2017
+    heading: "Follow-My-Lead: Intuitive Indoor Path Creation and Navigation Using Interactive Videos"
+    authors: Quentin Roy, Simon T. Perrault, Shengdong Zhao, Richard C. Davis, Anuroop Pattena Vaniyar, Velko Vechev, Youngki Lee, and Archan Misra
+    keywords: smartglasses, indoor navigation, wearable computing, mobile computing, egocentric visual navigation., video, leader-follower
+  - title:    
+    heading: "VITA: Towards Supporting Volunteer Interactions with Long-Term Care Residents with Dementia"
+    authors: Pin Sym Foong, Shengdong Zhao, Kelsey Carlson, and Zhe Liu
+    keywords: tablets, engagement activity, dementia, nursing homes, dementia care., volunteers
+  - title:    
+    heading: "ReTool: Interactive Microtask and Workflow Design through Demonstration"
+    authors: Chen Chen, Xiaojun Meng, Shengdong Zhao, and Morten Fjeld
+    keywords: freeform interactive microtasks, programming by demonstration, workflow, retool, crowdsourcing
+  - title:    JSTSP 2017
+    heading: "Introduction to the Issue on Signal Processing and Machine Learning"
+    authors: Mihaela van der Schaar, Richard G. Baraniuk, Mung Chiang, Jonathan Huang, Shengdong Zhao
+
+    keywords:
+
+  - title:    IMWUT 2017
+    heading: "BlindType: Eyes-Free Text Entry on Handheld Touchpad by Leveraging Thumb's Muscle Memory"
+    authors: Yiqin Lu, Chun Yu, Xin Yi, Yuanchun Shi, and Shengdong Zhao
+    keywords: eyes-free input, smart TV interaction, text entry, HMDs
+  - title:    CSCW 2017
+    heading: "Korero: Facilitating Complex Referencing of Visual Materials in Asynchronous Discussion Interface"
+    authors: Soon Hau Chua, Toni-Jan Keith Palma Monserrat, Dongwook Yoon, Juho Kim, and Shengdong Zhao
+    keywords: referencing, asynchronous discussion interface
+  - title:    Interact 2017
+    heading: "NexP: A Beginner Friendly Toolkit for Designing and Conducting Controlled Experiments"
+    authors: Xiaojun Meng, Pin Sym Foong, Simon Perrault, and Shengdong Zhao
+    keywords: NexP, controlled experiment, toolkit, design platform
+  - title:    RSS 2017
+    heading: "XPose: Reinventing User Interaction with Flying Cameras."
+    authors: Ziquan Lan, Mohit Shridhar†, David Hsu, and Shengdong Zhao
+  - title:    ChineseCHI 2017
+    heading: "Trade-off between Automation and Accuracy in Mobile Photo Recognition Food Logging"
+    authors: Brian Y. Lim, Xinni Chng, and Shengdong Zhao
+    keywords: user experience, field study, food logging, food journals, mobile applications, image recognition
+  - title:    CHI EA 2017
+    heading: "FusePrint: A DIY 2.5D Printing Technique for Good-fit Fabrication with Daily Objects"
+    authors: Kening Zhu, Alexandru Dancu, and Shengdong Zhao
+    keywords: 3D printing, DIY, SLA, daily objects, 2.5D printing
+  - title:    CoRR 2017
+    heading: "AVEID: Automatic Video System for Measuring Engagement In Dementia"
+    authors: Viral Parekh, Pin Sym Foong, Shengdong Zhao, Ramanathan Subramanian
+
+    keywords: Engagement; Video-based analytics; Dementia
+
+  - title:    CHI 2016
+    heading: "HaptiColor: Interpolating Color Information as Haptic Feedback to Assist the Colorblind"
+    authors: Marta G. Carcedo, Soon Hau Chua, Simon Perrault, Paweł Wozniak, Raj Joshi, Mohammad Obaid, Morten Fjeld, and Shengdong Zhao
+    keywords: wristband, vibration, wearable computing, color blindness, spatiotemporal vibrotactile pattern
+  - title:    ToCHI 2016
+    heading: "Investigating Expressive Tactile Interaction Design in Artistic Graphical Representations"
+    authors: Maryam Azh, Shengdong Zhao, and Sriram Subramanian
+    keywords: Interaction design, tactile interfaces, design tools, affordances, research through design, expressive tactile interaction design, creativity support tools, visuotactile interaction
+
+  - title:    DIS 2016
+    heading: "FusePrint: A DIY 2.5D Printing Technique Embracing Everyday Artifacts"
+    authors: Kening Zhu, Alexandru Dancu and Shengdong Zhao
+
+    keywords: FusePrint; Fabrication; DIY; 3D Printing; 2.5D Printing; Stereolithography; Everyday Artifacts.
+
+  - title:    AVI 2016
+    heading: "5-Step Approach to Designing Controlled Experiments"
+    authors: Xiaojun Meng, Pin Sym Foong, Simon Perrault, and Shengdong Zhao
+    keywords: NexP, experimental design tool, design controlled experiment
+  - title:    
+    heading: "HyNote: Integrated Concept Mapping and Notetaking"
+    authors: Xiaojun Meng, Shengdong Zhao, and Darren Edge
+    keywords: notetaking, mobile interaction, concept mapping
+  - title:    OzCHI 2016
+    heading: "Supporting the comparison of alternative stories"
+    authors: Atima Tharatipyakul, Hyowon Lee, Shengdong Zhao, and Richard C. Davis
+    keywords: storyboard, story comparison, interaction design
+  - title:    NordiCHI 2016
+    heading: "Towards Leaning Aware Interaction with Multitouch Tabletops"
+    authors: Khanh-Duy Le, Mahsa Paknezhad, Paweł W. Woźniak, Maryam Azh, Gabrielė Kasparavičiūtė, Morten Fjeld, Shengdong Zhao, and Michael S. Brown
+    keywords: tabletop interaction, active shape models, interactive surface, Leaning, lean recognition
+  - title:    
+    heading: "Ubitile: A Finger-Worn I/O Device for Tabletop Vibrotactile Pattern Authoring"
+    authors: Khanh-Duy Le, Kening Zhu, Tomasz Kosinski, Morten Fjeld, Maryam Azh, and Shengdong Zhao
+    keywords: surface computing, ring-like device, Vibrotactile pattern authoring
+  - title:    ITAP 2016
+    heading: "Design Considerations for Volunteer Support in Dementia Care"
+    authors: Pin Sym Foong and Shengdong Zhao
+    keywords: devices, non-primary, volunteering, primary, Dementia, caregivers, volunteers, burden of care
+  - title:    TIST 2016
+    heading: "Using Crowdsourcing for Scientific Analysis of Industrial Tomographic Images"
+    authors: Chen Chen, Paweł W. Woźniak, Andrzej Romanowski, Mohammad Obaid, Tomasz Jaworski, Jacek Kucharski, Krzysztof Grudzień, Shengdong Zhao, and Morten Fjeld
+    keywords: Silo, particle tracking, crowdsourcing, tomography
+  - title:    ChineseCHI 2016
+    heading: "Positioning Glass: Investigating Display Positions of Monocular Optical See-Through Head-Mounted Display"
+    authors: Soon Hau Chua, Simon T. Perrault, Denys J. C. Matthies, and Shengdong Zhao
+    keywords: user interface, design guidelines, monocular optical see-through head-mounted display, display position
+  - title:    CHI EA 2016
+    heading: "Ringteraction: Coordinated Thumb-index Interaction Using a Ring"
+    authors: Sarthak Ghosh, Hyeong Cheol Kim, Yang Cao, Arne Wessels, Simon T. Perrault, and Shengdong Zhao
+    keywords: bi-digit interaction, mobile computing, wearable computing, smartphone, joint interaction, ring
+  - title:    
+    heading: "A Dummy's Guide to your Next EXPeriment: Experimental Design and Analysis Made Easy"
+    authors: Shengdong Zhao, Xiaojun Meng, Pin Sym Foong, and Simon Perrault
+    keywords: conduct experiment, toolkit, controlled experimental design, statistical analysis
+  - title:    ACM 2016
+    heading: "Proceedings of the International Symposium on Interactive Technology and Ageing Populations, ITAP 2016, Kochi, Japan, October 20-22, 2016"
+    authors: Xiangshi Ren, Antti Oulasvirta, Cosmin Munteanu and Shengdong Zhao
+
+    keywords:
+
+  - title:    
+    heading: "Proceedings of the Fourth International Conference on Human Agent Interaction, HAI 2016, Biopolis, Singapore, October 4-7, 2016"
+    authors: Wei-Yun Yau, Takashi Omori, Giorgio Metta, Hirotaka Osawa, Shengdong Zhao
+
+    keywords:
+
+  - title:    CHI 2015
+    heading: "CoFaçade: A Customizable Assistive Approach for Elders and Their Helpers"
+    authors: Jason Chen Zhao, Richard C. Davis, Pin Sym Foong, and Shengdong Zhao
+    keywords: accessibility design, cofa-ade, silver computing
+  - title:    
+    heading: "Physical Loci: Leveraging Spatial, Object and Semantic Memory for Command Selection"
+    authors: Simon T. Perrault, Eric Lecolinet, Yoann Pascal Bourse, Shengdong Zhao, and Yves Guiard
+    keywords: spatial memory, input, association, memorization, method of loci, command selection, mnemonic device
+  - title:    
+    heading: "OmniVib: Towards Cross-body Spatiotemporal Vibrotactile Notifications for Mobile Phones"
+    authors: Jessalyn Alvina, Shengdong Zhao, Simon T. Perrault, Maryam Azh, Thijs Roumen, and Morten Fjeld
+    keywords: arm, waist, mobile device, spatiotemporal vibrotactile pattern, notification, tactile feedback, palm, thigh
+  - title:    
+    heading: "NotiRing: A Comparative Study of Notification Channels for Wearable Interactive Rings"
+    authors: Thijs Roumen, Simon T. Perrault, and Shengdong Zhao
+    keywords: wearable computing, poke, activity, vibration, sound, heat, notification, ring, light
+  - title:    ToCHI 2015
+    heading: "ColorBless: Augmenting Visual Information for Colorblind People with Binocular Luster Effect"
+    authors: Soon Hau Chua, Haimo Zhang, Muhammad Hammad, Shengdong Zhao, Sahil Goyal, and Karan Singh
+    keywords: augmented visualization, color blindness, Binocular luster, stereoscopic 3D
+  - title:    CSCW 2015
+    heading: "To Risk or Not to Risk?: Improving Financial Risk Taking of Older Adults by Online Social Information"
+    authors: Jason Chen Zhao, Wai-Tat Fu, Hanzhe Zhang, Shengdong Zhao, and Henry Duh
+    keywords: decision-making, social information, older adults, experience-based task, risk-taking
+  - title:    MobileHCI 2015
+    heading: "Botential: Localizing On-Body Gestures by Measuring Electrical Signatures on the Human Skin"
+    authors: Denys J. C. Matthies, Simon T. Perrault, Bodo Urban, and Shengdong Zhao
+    keywords: capacitive sensing, user interface, embodied interaction, on-body interaction, eyes-free, EMG, hands-free
+  - title:    L@S 2015
+    heading: "Understanding Learners' General Perception Towards Learning with MOOC Classmates: An Exploratory Study"
+    authors: Soon Hau Chua, Juho Kim, Toni-Jan Keith Monserrat, and Shengdong Zhao
+    keywords: online learning, learning behavior, moocs, collaborative learning, massive open online courses
+  - title:    CHI 2014
+    heading: "WADE: simplified GUI add-on development for third-party software"
+    authors: Xiaojun Meng, Shengdong Zhao, Yongfeng Huang, Zhongyuan Zhang, James Eagan, and Ramanathan Subramanian
+    keywords: wysiwyg, WADE, add-on integration, GUI, IDE
+  - title:    
+    heading: "Food messaging: using edible medium for social messaging"
+    authors: Jun Wei, Xiaojuan Ma, and Shengdong Zhao
+    keywords: field study, food messaging, food hci, food printer, affective communication, edible social messaging
+  - title:    
+    heading: "L.IVE: an integrated interactive video-based learning environment"
+    authors: Toni-Jan Keith Palma Monserrat, Yawen Li, Shengdong Zhao, and Xiang Cao
+    keywords: interactive video, l.ive, video-based online learning
+  - title:    
+    heading: "Draco: bringing life to illustrations with kinetic textures"
+    authors: Rubaiat Habib Kazi, Fanny Chevalier, Tovi Grossman, Shengdong Zhao, and George Fitzmaurice
+    keywords: sketching, direct manipulation, kinetic textures, animation
+  - title:    AVI 2014
+    heading: "BezelCopy: an efficient cross-application copy-paste technique for touchscreen smartphones"
+    authors: Chen Chen, Simon T. Perrault, Shengdong Zhao, and Wei Tsang Ooi
+    keywords: handheld device, copy-paste, mobile computing, smartphone, input, bezel interaction
+  - title:    IJHCI 2014
+    heading: "Using Social Media Platforms for Human-Robot Interaction in Domestic Environment"
+    authors: Xiaoning Ma, Xin Yang,Shengdong Zhao,Chi-Wing Fu, Ziquan Lan, and Yiming Pu
+    keywords: 
+
+  - title:    CHI EA 2014
+    heading: "Peripheral Microinteraction For Wearable Computing"
+    authors: Denys Matthies, Simon T. Perrault, Eric Lecolinet, and Shengdong Zhao
+    keywords: peripheral interaction, microinteraction, eyes-free interaction, wearable computing, input interfaces
+  - title:    
+    heading: "Draco: bringing life to illustrations"
+    authors: Rubaiat Habib Kazi, Fanny Chevalier, Tovi Grossman, Shengdong Zhao, and George Fitzmaurice
+    keywords: sketch, textures, direct manipulation, animation
+  - title:    
+    heading: "Draco: living illustrations"
+    authors: Rubaiat Habib Kazi, Fanny Chevalier, Tovi Grossman, Shengdong Zhao, and George Fitzmaurice
+    keywords:
+
+  - title:    
+    heading: "L.IVE: an integrated interactive video-based learning environment"
+    authors: Toni-Jan Keith Palma Monserrat, Shengdong Zhao, Yawen Li and Xiang Cao
+
+    keywords:
+
+  - title:    NordiCHI 2014
+    heading: "Thaddeus: a dual device interaction space for exploring information visualisation"
+    authors: Paweł Woźniak, Lars Lischke, Benjamin Schmidt, Shengdong Zhao, and Morten Fjeld
+    keywords: multi surface environment, mobile interaction, interactive visualization, dual device
+  - title:    SIGGRAPH Studio 2014
+    heading: "DRACO: sketching animated drawings with kinetic textures"
+    authors: Rubaiat Habib Kazi, Fanny Chevalier, Tovi Grossman, Shengdong Zhao, George Fitzmaurice
+
+    keywords:
+
+  - title:    SIGGRAPH Posters 2014
+    heading: "DRACO: sketching animated drawings with kinetic textures"
+    authors: Rubaiat Habib Kazi, Fanny Chevalier, Tovi Grossman, Shengdong Zhao, George Fitzmaurice
+
+    keywords:
+
+  - title:    ChineseCHI 2014
+    heading: "Limiting trial and error: introducing a systematic approach to designing clutching"
+    authors: Pawel Woźniak, Morten Fjeld, and Shengdong Zhao
+    keywords: design procedure, clutching, input channels
+  - title:    
+    heading: "Eyes-free gesture passwords: a comparison of various eyes-free input methods"
+    authors: Chen Chen, Soon Hau Chua, David Chung, Simon T. Perrault, Shengdong Zhao, and Wing Kei
+    keywords: passwords, security, eyes-free, gesture
+  - title:    CHI 2013
+    heading: "AutoGami: a low-cost rapid prototyping toolkit for automated movable paper craft"
+    authors: Kening Zhu and Shengdong Zhao
+    keywords: automated paper craft, toolkit, paper computing, selective inductive power transmission
+  - title:   
+    heading: "NoteVideo: facilitating navigation of blackboard-style lecture videos"
+    authors: Toni-Jan Keith Palma Monserrat, Shengdong Zhao, Kevin McGee, and Anshul Vikram Pandey
+    keywords: blackboard-style videos, notevideo, video, video navigation, notevideo+, online streaming, video summary
+  - title:    CSCW 2013
+    heading: "Designing an effective vibration-based notification interface for mobile phones"
+    authors: Bahador Saket, Chrisnawan Prasojo, Yongfeng Huang, and Shengdong Zhao
+    keywords: vibration patterns, perceived urgency, mobile phone, notifications, alerts
+  - title:    APCHI 2013
+    heading: "Holy smartphones and tablets, Batman!: mobile interaction's dynamic duo"
+    authors: Tommaso Piazza, Morten Fjeld, Gonzalo Ramos, AsimEvren Yantac, and Shengdong Zhao
+    keywords: human factors, tablet, PDA, screen, context-aware computing, device, content, smartphone, design, mobile
+  - title:    IwC 2013
+    heading: "Shared Input Multimodal Mobile Interfaces: Interaction Modality Effects on Menu Selection in Single-Task and Dual-Task Environments"
+    authors: Shengdong Zhao, Duncan P. Brumby, Mark Chignell, Dario Salvucci, and Sahil Goyal
+    keywords: earPod, eyes-free, shared-input multimodal interfaces
+  - title:    IJACS 2013
+    heading: "Food Media: Interactive Entertainment Over Telepresent Dinner"
+    authors: Jun Wei, Adrian David Cheok, and Shengdong Zhao
+    keywords: food media, family dining, entertainment, multisensory, home media
+  - title:    CHI EA 2013
+    heading: "Dynamic duo: phone-tablet interaction on tabletops"
+    authors: Tommaso Piazza, Shengdong Zhao, Gonzalo Ramos, Asim Evren Yantaç, and Morten Fjeld
+    keywords: context-aware, input devices and strategies, tablet, mobile user interfaces, content, user interfaces, phone, combination
+  - title:    
+    heading: "NoteVideo: facilitating navigation of blackboard-style lecture videos"
+    authors: Toni-Jan Keith Palma Monserrat, Shengdong Zhao, Kevin McGee, and Anshul Vikram Pandey
+    keywords: blackboard-style videos, notevideo, video, video navigation, notevideo+, online streaming, video summary
+  - title:    CHI 2012
+    heading: "Beyond stereo: an exploration of unconventional binocular presentation for novel visual experience"
+    authors: Haimo Zhang, Xiang Cao, and Shengdong Zhao
+    keywords: binocular visualization, special effect, stereo
+  - title:    
+    heading: "Exploring user motivations for eyes-free interaction on mobile devices"
+    authors: Bo Yi, Xiang Cao, Morten Fjeld, and Shengdong Zhao
+    keywords: mobile devices, user motivation, eyes-free
+  - title:    
+    heading: "Vignette: interactive texture design and manipulation with freeform gestures for pen-and-ink illustration"
+    authors: Rubaiat Habib Kazi, Takeo Igarashi, Shengdong Zhao, and Richard Davis
+
+    keywords: texture design and manipulation, sketch based interaction, pen-and-ink illustration
+  - title:    AVI 2012
+    heading: "AutoComPaste: auto-completing text as an alternative to copy-paste"
+    authors: Shengdong Zhao, Fanny Chevalier, Wei Tsang Ooi, Chee Yuan Lee, and Arpit Agarwal
+    keywords: copy-paste, windows management, autocompletion
+  - title:    CHI Extended Abstracts 2012
+    heading: "Anyone can sketch vignettes!"
+    authors: Rubaiat Habib Kazi, Takeo Igarashi, Shengdong Zhao, Richard Davis and Toni-Jan Keith Monserrat
+
+    keywords: Pen and ink illustration, sketch, texture, creativity
+
+  - title:    ISMAR-AMH 2012
+    heading: "When AR meets food: A structural overview of the research space on multi-facets of food"
+    authors: Jun Wei, Shengdong Zhao, Ryohei Nakatsu, and Henry B.L. Duh
+
+    keywords: food, augmented reality, smell, taste, entertainment
+  - title:    EuroVis 2012
+    heading: "Tracing Tuples Across Dimensions: A Comparison of Scatterplots and Parallel Coordinate Plots"
+
+    authors: X. Kuang, H. Zhang, S. Zhao, and M.J. McGuffin
+    keywords:
+  - title:    AUTODESK RESEARCH 2012
+    heading: "A Classification of Opening Posts in Commercial Software Help Forums"
+
+    authors: Xiaole Kuang, Bo Yi, Shengdong Zhao, Jianann Chow, Tovi Grossman, and George Fitzmaurice
+    keywords: opening posts, commercial software, online help forum
+  - title:    APCHI 2012
+    heading: "Older Adults and Computer Usage: Common Activities and Essential Applications"
+
+    authors: Melissa Wong, Kristal Chan, Niti Madhugiri, and Shengdong Zhao
+    keywords: older adults, Human-computer Interaction
+  - title:    
+    heading: "Robots in my contact list: using social media platforms for human-robot interaction in domestic environment"
+
+    authors: Xiaoning Ma, Xin Yang, Shengdong Zhao, Chi-Wing Fu, Ziquan Lan, and Yiming Pu
+    keywords: domestic robots, social media platforms, intuitive interaction, human-robot interaction
+  - title:    ICMI 2012
+    heading: "LUI: lip in multimodal mobile GUI interaction"
+
+    authors: Maryam Azh and Shengdong Zhao
+    keywords: multimodal mobile interaction, gesture input, lui
+  - title:    
+    heading: "ICMI'12 grand challenge: haptic voice recognition"
+
+    authors: Khe Chai Sim, Shengdong Zhao, Kai Yu, and Hank Liao
+    keywords: multimodal interface, mobile text input, haptic voice recognition
+  - title:    IHCI 2012
+    heading: "Keynote speech I: Beyond multi-touch: Interactive surfaces that support haptic feedback and multiple independent views"
+
+    authors: Sriram Subramanian; Xiang Cao; Shengdong Zhao; Sudhir Dixit; Anil K. Gupta; Atanendu Sekhar Mandai; Manas Modi; Ramalatha Marimuthu, Amit. A. Nanavati, Nitendra Rajput and Pradeep Yammiyavar
+
+    keywords: multitouch devices, interactive surfaces, tactile feedback, physical buttons, Bristol Interaction and Graphics group, touch interfaces, dynamic views allocation, UltraHaptics, multipoint haptic feedback system, PiVOT, tabletop system
+
+  - title:    MSR-TR 2012
+    heading: "Understanding Mid-Air Hand Gestures: A Study of Human Preferences in Usage of Gesture Types for HCI"
+
+    authors: Roland Aigner, Daniel Wigdor, Hrvoje Benko, Michael Haller, David Lindbauer, Alexandra Ion, Shengdong Zhao, and Jeffrey Tzu Kwan Valino Koh
+    keywords:
+  - title:    SIGGRAPH Posters 2012
+    heading: "Vignette: a style preserving sketching tool for pen-and-ink illustration with texture synthesis"
+
+    authors: Rubaiat Habib Kazi, Takeo Igarashi, Shengdong Zhao, Richard Davis and Kenshi Takayama
+
+    keywords:
+  - title:    CHI 2011
+    heading: "MOGCLASS: evaluation of a collaborative system of mobile devices for classroom music education of young children"
+
+    authors: Yinsheng Zhou, Graham Percival, Xinxi Wang, Ye Wang, and Shengdong Zhao
+    keywords: children, music, user-centered design, mobile devices, musical instruments, education
+  - title:    
+    heading: "Farmer's tale: a facebook game to promote volunteerism"
+
+    authors: Don Sim Jianqiang, Xiaojuan Ma, Shengdong Zhao, Jing Ting Khoo, Swee Ling Bay, and Zhenhui Jiang
+    keywords: persuasive games, volunteerism, social networking
+  - title:    
+    heading: "Measuring web page revisitation in tabbed browsing"
+
+    authors: Haimo Zhang and Shengdong Zhao
+    keywords: tabbed browsing, effective revisitation, web revisitation
+  - title:   
+    heading: "SandCanvas: a multi-touch art medium inspired by sand animation"
+
+    authors: Rubaiat Habib Kazi, Kien Chuan Chua, Shengdong Zhao, Richard Davis, and Kok-Lim Low
+
+    keywords: creativity, table-top computing, multi-touch art, sand animation
+  - title:    SIGGRAPH Dailies 2011
+    heading: "SandCanvas: New Possibilities in Sand Animation"
+
+    authors: Rubaiat Habib Kazi, Kien Chuan Chua, Shengdong Zhao, Richard Davis, and Kok-Lim Low
+
+    keywords: Sand animation, multi-touch, tabletop computing, creativity
+
+  - title:    ICINFA 2011
+    heading: "Assessing age-related performance decrements in user interface tasks"
+
+    authors: Xiaolei Zhou, Shengdong Zhao, Mark Chignell, and Xiangshi Ren
+    keywords: human performance, speed-accuracy tradeoff, user group, steering task, aging effects
+  - title:    ACM MULTIMEDIA 2010
+    heading: "MOGCLASS: a collaborative system of mobile devices for classroom music education"
+
+    authors: Yinsheng Zhou, Graham Percival, Xinxi Wang, Ye Wang, and Shengdong Zhao
+    keywords: education, user-centered design, children, musical instruments, mobile devices, music
+  - title:    VCIP 2010
+    heading: "MusicFlow: an interactive music composition system"
+
+    authors: Sharon Yee Ping Tan, Zhijia Hu, Alan Yih Lun Koh, Felicia, and Shengdong Zhao
+    keywords:
+  - title:    NOSSDAV 2010
+    heading: "Towards understanding user tolerance to network latency and data rate in remote viewing of progressive meshes"
+
+    authors: Ransi Nilaksha De Silva, Wei Cheng, Wei Tsang Ooi, and Shengdong Zhao
+    keywords: progressive meshes, quality of experience, streaming
+  - title:    CHI 2009
+    heading: "Magic cards: a paper tag interface for implicit robot control"
+
+    authors: Shengdong Zhao, Koichi Nakamura, Kentaro Ishii, and Takeo Igarashi
+    keywords: paper-tag-based interface, implicit human robot interaction, domestic service, magic cards
+  - title:    ACM MULTIMEDIA 2009
+    heading: "Towards characterizing user interaction with progressively transmitted 3D meshes"
+
+    authors: Ransi Nilaksha De Silva, Wei Cheng, Dan Liu, Wei Tsang Ooi, and Shengdong Zhao
+    keywords: user behavior, interaction, progressive meshes
+  - title:    INTERACT 2009
+    heading: "Designing Laser Gesture Interface for Robot Control"
+
+    authors: Kentaro Ishii, Shengdong Zhao, Masahiko Inami, Takeo Igarashi, and Michita Imai
+    keywords: laser pointe, stroke gestur, human-robot interactio, user interface
+  - title:    JSMEWES 2009
+    heading: "An Empirical Investigation of Age-related Performance in Computer Interface Tasks"
+
+    authors: Xiaolei Zhou, Shengdong Zhao, Mark Chignell, and Xiangshi Ren
+    keywords:
+  - title:    TSpace 2009
+    heading: "earPod: Efficient Hierarchical Eyes-free Menu Selection"
+
+    authors: Shengdong Zhao
+
+    keywords: earPod; Human Computer Interaction; Computer Science; Interactive Techniques
+
+  - title:    HCI 2008
+    heading: "Improving Target Acquisitions through Utilizing Pen Pressure"
+
+    authors: Xiangshi Ren, Jibin Yin, Shengdong Zhao, and Yang Li
+    keywords:
+  - title:    CHI 2007
+    heading: "InkSeine: In Situ search for active note taking"
+
+    authors: Ken Hinckley, Shengdong Zhao, Raman Sarin, Patrick Baudisch, Edward Cutrell, Michael Shilman, and Desney Tan
+    keywords: gestures, search, tablet, pen, input, ink, handwriting
+  - title:    
+    heading: "Earpod: eyes-free menu selection using touch input and reactive audio feedback"
+
+    authors: Shengdong Zhao, Pierre Dragicevic, Mark Chignell, Ravin Balakrishnan, and Patrick Baudisch
+    keywords: auditory menu, gestural interaction
+  - title:    INTERACT 2007
+    heading: "The Adaptive Hybrid Cursor: A Pressure-Based Target Selection Technique for Pen-Based User Interfaces"
+
+    authors: Xiangshi Ren, Jibin Yin, Shengdong Zhao, and Yang Li
+    keywords: pen-based interfaces, pressure, small target acquisition, target density
+  - title:    IFAC HMS 2007
+    heading: "Using Glyphs To Facilitate Transition From Hierarchical Selection To Gesturing"
+
+    authors: Shengdong Zhao and Mark Chignell
+    keywords: human-machine interface, human-centered design, motor control
+  - title:    CHI 2006
+    heading: "Zone and polygon menus: using relative position to increase the breadth of multi-stroke marking menus"
+
+    authors: Shengdong Zhao, Maneesh Agrawala, and Ken Hinckley
+    keywords: open-based interfaces, position-based menus, pie menus, marking menus
+  - title:    UIST 2006
+    heading: "Phosphor: explaining transitions in the user interface using afterglow effects"
+
+    authors: Patrick Baudisch, Desney Tan, Maxime Collomb, Dan Robbins, Ken Hinckley, Maneesh Agrawala, Shengdong Zhao, and Gonzalo Ramos
+    keywords: cartoon animation, user interfaces, phosphor, diagrams, comic animation, information visualization
+  - title:    INFOVIS 2005
+    heading: "Elastic hierarchies: combining treemaps and node-link diagrams"
+    authors: Shengdong Zhao, M.J. McGuffin, and M.H. Chignell
+    keywords: data visualisation, computer animation, tree data structures
+  - title:    UIST 2004
+    heading: "Simple vs. compound mark hierarchical marking menus"
+    authors: Shengdong Zhao and Ravin Balakrishnan
+    keywords: pie menus, marking menus
+  - title:    INTERACT 2003
+    heading: "Listen to the Music: Audio Preview Cues for Exploration of Online Music"
+    authors: Monica M. C. Schraefel , Maria Karam and Shengdong Zhao
+
+    keywords: Multimodal interfaces, information access, data exploration, audio interfaces
+
+  - title:    WWW 2002
+    heading: "Hunter gatherer: interaction support for the creation and management of within-web-page collections"
+    authors: Monica M. C. Schraefel , Yuxiang Zhu, David Modjeska, Daniel Wigdor and Shengdong Zhao
+
+    keywords: Web-based interaction design, information gathering and management, attention, collections, transclusions
+

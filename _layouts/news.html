@@ -102,7 +102,7 @@ layout: default
                               <div class="elementskit-post-image-card">
                                 <div class="elementskit-entry-header">
                                   <a
-                                    href="https://www.synteraction.org/new-research-intern-peilin/"
+                                    href="{{ post.url | relative_url }}"
                                     class="elementskit-entry-thumb"
                                   >
                                     <img
@@ -127,7 +127,7 @@ layout: default
                                       class="elementskit-single-meta triangle_left"
                                     >
                                       <span class="elementskit-meta-wraper"
-                                        ><strong>03</strong>Apr</span
+                                        >{{post.date}}</span
                                       >
                                     </div>
                                   </div>
@@ -163,17 +163,11 @@ layout: default
                                     </a>
                                   </h2>
                                   <p>
-                                    We have a new research intern from City
-                                    University of Hong Kong, WANG Peilin. Get to
-                                    know him: I am Lincoln, in the previous
-                                    weekly meeting shen told me to post my intro
-                                    and photo to the web. Here is my intro and
-                                    photo. Hi everyone, here is WANG Peilin, you
-                                    can call me Lincoln […]
+                                    {{post.content}}[…]
                                   </p>
                                   <div class="btn-wraper">
                                     <a
-                                      href="https://www.synteraction.org/new-research-intern-peilin/"
+                                    href="{{ post.url | relative_url }}"
                                       class="elementskit-btn whitespace--normal"
                                     >
                                       Read more

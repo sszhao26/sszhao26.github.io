@@ -97,7 +97,8 @@ layout: default
                             class="row post-items"
                             data-masonry-config="true"
                           >
-                          {% for post in site.news %}
+                          {% assign sorted_news = site.news | sort: 'date' | reverse %}
+                          {% for post in sorted_news %}
                             <div class="col-lg-4 col-md-6">
                               <div class="elementskit-post-image-card">
                                 <div class="elementskit-entry-header">
@@ -127,7 +128,9 @@ layout: default
                                       class="elementskit-single-meta triangle_left"
                                     >
                                       <span class="elementskit-meta-wraper"
-                                        >{{post.date}}</span
+                                        >{% assign date_format = site.minima.date_format | default: "%b %-d,
+                                        %Y" %}
+                                        {{ post.date | date: date_format }}</span
                                       >
                                     </div>
                                   </div>
@@ -148,7 +151,7 @@ layout: default
                                         ></path>
                                       </svg>
                                       <a
-                                        href="https://www.synteraction.org/category/interns/"
+                                        
                                         rel="category tag"
                                         >{{post.category}}</a
                                       >
@@ -157,13 +160,13 @@ layout: default
 
                                   <h2 class="entry-title">
                                     <a
-                                      href="https://www.synteraction.org/new-research-intern-peilin/"
+                                    href="{{ post.url | relative_url }}"
                                     >
                                     {{post.title}}
                                     </a>
                                   </h2>
                                   <p>
-                                    {{post.content}}[…]
+                                    {{post.description}}[…]
                                   </p>
                                   <div class="btn-wraper">
                                     <a

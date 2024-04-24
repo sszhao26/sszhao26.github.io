@@ -20419,6 +20419,7 @@ h1.entry-title {
   margin-right: auto;
   margin-left: auto;
   position: relative;
+  flex-wrap: wrap;
 }
 @media (max-width: 1023px) {
   .elementor-section .elementor-container {

@@ -1,5 +1,5 @@
 lab_director:
-  - img: 	https://www.synteraction.org/wp-content/uploads/2022/02/Prof.-Zhao-Shengdong.jpg
+  - img: 	/assets/images/people/Prof.-Zhao-Shengdong.jpg
     name:  Shengdong (Shen) Zhao 
     study: Professor
     email: shengdong.zhao@cityu.edu.hk
@@ -7,91 +7,91 @@ lab_director:
     link: https://shengdongzhao.com/
 
 current_members:
-  - img: https://www.synteraction.org/wp-content/uploads/2022/02/Danny-e1660132459955.jpg
+  - img: /assets/images/people/Danny-e1660132459955.jpg
     name:  Hyeongcheol Kim 
     study: Ph.D Student
     email: hckim0911@gmail.com
     website: hckim.net
     link: https://hckim.net/
-  - img: 	https://www.nus-hci.org/wp-content/uploads/2021/09/Shan_2021.jpg
+  - img: 	/assets/images/people/Shan_2021.jpg
     name:  Zhang Shan
     study: Ph.D Student
     email: shan_zhang@u.nus.edu
     website: shan-zhang
     link: https://www.linkedin.com/in/shan-zhang/
-  - img: https://www.synteraction.org/wp-content/uploads/2020/11/Ashwin-2-scaled-e1606445929104-1024x845.jpg
+  - img: /assets/images/people/Ashwin-2-scaled-e1606445929104-1024x845.jpg
     name:  Ashwin Ram
     study: Ph.D Student  
     email: ashwinram@u.nus.edu
     website: ashwin-ram
     link: https://sites.google.com/view/ashwin-ram
-  - img: https://www.synteraction.org/wp-content/uploads/2020/12/nuwan-small-1024x845.jpg
+  - img: /assets/images/people/nuwan-small-1024x845.jpg
     name:  Nuwan Janaka
     study: Ph.D Student  
     email: nuwanj@comp.nus.edu.sg
     website: nuwanjanaka.info
     link: https://nuwanjanaka.info/
-  - img: https://www.synteraction.org/wp-content/uploads/2022/01/Yunpeng-e1642398163278.jpg
+  - img: /assets/images/people/Yunpeng-e1642398163278.jpg
     name:  Bai Yunpeng
     study: Ph.D Student  
     email: e0917623@u.nus.edu
-  - img: https://www.synteraction.org/wp-content/uploads/2021/08/Zhou-Chen.jpg
+  - img: /assets/images/people/Zhou-Chen.jpg
     name:  Zhou Chen
     study: Ph.D Student  
     email: zhouchen@comp.nus.edu.sg
     website: czzoe.github.io
     link: https://czzoe.github.io/
-  - img: https://www.synteraction.org/wp-content/uploads/2023/01/Peisen-Xu-1024x768.jpg
+  - img: /assets/images/people/Peisen-Xu-1024x768.jpg
     name:  Peisen Xu
     study: Research Assistant & Part-time Ph.D. Student 
     email: xpeisenx@gmail.com
-  - img: https://www.synteraction.org/wp-content/uploads/2023/01/Cai-Runze-SW-1024x819.jpg
+  - img: /assets/images/people/Cai-Runze-SW-1024x819.jpg
     name:  Cai Runze
     study: Ph.D Student  
     email: runze.cai@u.nus.edu
     website: runzecai.com
     link: http://runzecai.com/
-  - img: https://www.synteraction.org/wp-content/uploads/2023/03/new-visiting-phd.jpeg
+  - img: /assets/images/people/new-visiting-phd.jpeg
     name:  Gu Yue
     study: Visiting Ph.D. Student 
-  - img: https://www.synteraction.org/wp-content/uploads/2023/01/emran.jpg
+  - img: /assets/images/people/emran.jpg
     name:  Emran Poh
     study: Master Student 
     email: emran.poh@u.nus.edu
-  - img: 	https://www.synteraction.org/wp-content/uploads/2023/04/Stella-Mao.jpg
+  - img: 	/assets/images/people/Stella-Mao.jpg
     name:  MAO Yaxuan Stella
     study: Part-time Research Assistant 
     email: tellamaoyx@gmail.com
-  - img: https://www.synteraction.org/wp-content/uploads/2023/05/Zhang-Youpeng.jpg
+  - img: /assets/images/people/Zhang-Youpeng.jpg
     name:  Zhang Youpeng
     study: Research Assistant
     email: zhangyppy@gmail.com
-  - img: https://www.synteraction.org/wp-content/uploads/2023/12/Luoying-2048x1639.jpg
+  - img: /assets/images/people/Luoying-2048x1639.jpg
     name:  LIN Luoying
     study: PhD Student 
     email: linluoying233@gmail.com
   
 interns_and_visiting_researchers:
   
-  - img: https://www.synteraction.org/wp-content/uploads/2023/08/WANG-Zheng-1024x819.jpg
+  - img: /assets/images/people/WANG-Zheng-1024x819.jpg
     name: WANG Zheng 
     interns: Intern '23
-  - img: https://www.synteraction.org/wp-content/uploads/2023/08/Shuraj.jpg
+  - img: /assets/images/people/Shuraj.jpg
     name: Shenoy Suraj Bantwal 
     interns: Intern '23
-  - img: https://www.synteraction.org/wp-content/uploads/2023/10/photo_zyd-Yingdong-Zhang-1024x819.jpg
+  - img: /assets/images/people/photo_zyd-Yingdong-Zhang-1024x819.jpg
     name: Zhang Yingdong
     interns: Intern '23
-  - img: https://www.synteraction.org/wp-content/uploads/2023/10/Darice-Wong.jpeg
+  - img: /assets/images/people/Darice-Wong.jpeg
     name: Darice Wong 
     interns: Intern '23
-  - img: https://www.synteraction.org/wp-content/uploads/2023/11/Yu-Rou-Lin.jpg
+  - img: /assets/images/people/Yu-Rou-Lin.jpg
     name: Yu-Rou Lin 
     interns: Intern '23
-  - img: https://www.synteraction.org/wp-content/uploads/2024/02/Danae-Lee-1024x819.jpg
+  - img: /assets/images/people/Danae-Lee-1024x819.jpg
     name: Danae Lee
     interns: Intern '23
-  - img: https://www.synteraction.org/wp-content/uploads/2024/04/wangpeilin-1024x819.jpg
+  - img: /assets/images/people/wangpeilin-1024x819.jpg
     name: WANG Peilin
     interns: Intern '24
     email: wangpeilin.lincoln@gmail.com
@@ -100,70 +100,70 @@ interns_and_visiting_researchers:
 
 graduated_phd_students:
   
-  - img: 	https://www.synteraction.org/wp-content/uploads/2020/12/deb-small.jpg
+  - img: 	/assets/images/people/deb-small.jpg
     name: Debjyoti GHOSH
     possition: Google, Quantitative UX Researcher
     study: Graduated Ph.D. Student '20
     email: debjyoti.88@gmail.com
     website: debjyotighosh
     link: https://www.linkedin.com/in/debjyotighosh/
-  - img: https://www.synteraction.org/wp-content/uploads/2020/12/pinsim-small.jpeg
+  - img: /assets/images/people/pinsim-small.jpeg
     name: Pin Sym FOONG
     possition: TeleHealth Core, Head Of Design
     study: Graduated Ph.D. Student '19
     email: pinsym@nus.edu.sg
     website: pinsym.wordpress.com
     link: https://pinsym.wordpress.com/
-  - img: https://www.synteraction.org/wp-content/uploads/2020/12/SoonHau-small-1024x851.jpeg
+  - img: /assets/images/people/SoonHau-small-1024x851.jpeg
     name: SOON HAU Chua
     possition: Grab, UX researcher
     study: Graduated Ph.D. Student '17
     email: chuasoonhau@gmail.com
     website: chuasoonhau.wordpress.com
     link: https://chuasoonhau.wordpress.com/
-  - img: https://www.synteraction.org/wp-content/uploads/2020/12/ChenChen-small.jpg
+  - img: /assets/images/people/ChenChen-small.jpg
     name: Chen CHEN
     possition: Grab, Lead Software Engineer
     study: Graduated Ph.D. Student '19
     email: chchencc@gmail.com
     website: chen-chen
     link: https://www.linkedin.com/in/chen-chen-6133b91a/
-  - img: 	https://www.synteraction.org/wp-content/uploads/2020/12/maryam-small.jpeg
+  - img: 	/assets/images/people/maryam-small.jpeg
     name: Maryam AZH
     possition: Founder, Overlay Technologies
     study: Graduated Ph.D. Student '17
     email: maryam@nus.edu.sg
     website: maryam-azh
     link: https://www.linkedin.com/in/maryam-azh
-  - img: https://www.synteraction.org/wp-content/uploads/2020/12/Xiaojun-small-1024x853.jpg
+  - img: /assets/images/people/Xiaojun-small-1024x853.jpg
     name: MENG Xiaojun
     possition: Huawei Tech, Senior Research Engineer
     study: Graduated Ph.D. Student '17
     email: mengxj08@aliyun.com
     website: mengxiaojun
     link: https://www.linkedin.com/in/mengxiaojun/
-  - img: https://www.synteraction.org/wp-content/uploads/2020/12/rubaiat-small.jpg
+  - img: /assets/images/people/rubaiat-small.jpg
     name: Rubaiat Habib
     possition: Adobe, Sr. Research Scientist
     study: Graduated Ph.D. Student '14
     email: rubaiat.habib@gmail.com
     website: rubaiathabib.me
     link: https://rubaiathabib.me/
-  - img: https://www.synteraction.org/wp-content/uploads/2020/12/haimo-small.jpg
+  - img: /assets/images/people/haimo-small.jpg
     name: Haimo ZHANG
     possition: Research Fellow, UOA
     study: Graduated Ph.D. Student '14
     email: haimoz@acm.org
     website: haimoz.github.io
     link: https://haimoz.github.io/
-  - img: 	https://www.synteraction.org/wp-content/uploads/2020/12/WeiJun-small.jpg
+  - img: 	/assets/images/people/WeiJun-small.jpg
     name: Jun WEI
     possition: Alibaba, User Experience Specialist
     study: Graduated Ph.D. Student '14
     email: weijun924@gmail.com
     website: weijun924.wixsite.com/wei-jun
     link: https://weijun924.wixsite.com/wei-jun
-  - img: https://www.synteraction.org/wp-content/uploads/2020/12/KeningZhu-small.jpeg
+  - img: /assets/images/people/KeningZhu-small.jpeg
     name: Kening ZHU
     possition: Associate Professor, CUHK
     study: Graduated Ph.D. Student '13
@@ -172,60 +172,60 @@ graduated_phd_students:
     link: https://zhukening.wixsite.com/aboutme
     
 graduated_master_students:
-  - img: https://www.synteraction.org/wp-content/uploads/2021/09/Yu-Chen.jpg
+  - img: /assets/images/people/Yu-Chen.jpg
     name: Yu Chen
     study: Graduated Master Student '22
     email: deemolover7385@gmail.com
-  - img: 	https://www.synteraction.org/wp-content/uploads/2020/12/devangini-small.jpg
+  - img: 	/assets/images/people/devangini-small.jpg
     name: Devangini Patel
     possition: CIVIT, Computer Vision Engineer
     study: Graduated Master Student '20
     email: devangini27study@gmail.com
     website: devanginiblog.wordpress.com
     link: https://devanginiblog.wordpress.com/
-  - img: https://www.synteraction.org/wp-content/uploads/2020/12/SmithaSheshadri-small.jpg
+  - img: /assets/images/people/SmithaSheshadri-small.jpg
     name: Smitha Sheshadri
     possition: SMU, Research Engineer
     study: Graduated Master Student '19
     email: smitha3shesh@gmail.com
     website: smitha-sheshadri
     link: https://www.linkedin.com/authwall?trk=gf&trkInfo=AQGQkf5RVsd4QAAAAY8PMQGIg4I4Exl5b2ZVwIk3TT1iRLbBhrXUCX7GAVI1wjXKClP680Arh0r_7nJEB5yPwTlVdCowGRio9oYQWTJ2DBMoe28yY1X-HzUEPdFzLzBvPAlxHP8=&original_referer=http://127.0.0.1:4000/&sessionRedirect=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fsmitha-sheshadri-895889b5%2F
-  - img: https://www.synteraction.org/wp-content/uploads/2020/12/ZhongyuanZhang-small.jpeg
+  - img: /assets/images/people/ZhongyuanZhang-small.jpeg
     name: Zhongyuan ZHANG
     possition: Microsoft, Senior Software Engineer
     study: Graduated Master Student '13
     email: zhang.zhongyuan11@gmail.com
     website: zhongyuan-zhang
     link: https://www.linkedin.com/in/zhongyuan-zhang-19bbba49/
-  - img: https://www.synteraction.org/wp-content/uploads/2020/12/BoYi-small.jpeg
+  - img: /assets/images/people/BoYi-small.jpeg
     name: Bo YI
     possition: Snapchat, Software Engineer
     study: Graduated Master Student '12
     email: eboygtk@gmail.com
     website: bo-yi
     link: https://www.linkedin.com/in/bo-yi-11a12b22/
-  - img: https://www.synteraction.org/wp-content/uploads/2020/12/XiaoleKuang-small.jpeg
+  - img: /assets/images/people/XiaoleKuang-small.jpeg
     name: Xiaole KUANG
     possition: Grab, Engineer Lead
     study: Graduated Master Student '12
     email: xiaolekuang@gmail.com
     website: xiaole-kuang
     link: https://www.linkedin.com/in/xiaole-kuang/
-  - img: 	https://www.synteraction.org/wp-content/uploads/2020/12/JackYang-small.jpeg
+  - img: 	/assets/images/people/JackYang-small.jpeg
     name: Xin YANG
     possition: Shopee, Assistant Manager
     study: Graduated Master Student '11
     email: yangxinnus@gmail.com
     website: jack-yang-xin
     link: https://www.linkedin.com/authwall?trk=gf&trkInfo=AQH7JjthrU8Q9wAAAY8PMlF4l11inok8HYZuxlhn02zCYEfmILSUA2pEPLR9RABSlIDHHC3BeOlEzQGJ9rljZFosxopyTGC4x5ONUzdMFqgHMu83U2cOuTC58QCnZyc5X7hhi2Q=&original_referer=http://127.0.0.1:4000/&sessionRedirect=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fjack-yang-xin%2F
-  - img: https://www.synteraction.org/wp-content/uploads/2020/12/ZhouShaoping-small.jpeg
+  - img: /assets/images/people/ZhouShaoping-small.jpeg
     name: SHAOPING Zhou
     possition: Haitong International Securities, Senior Analyst
     study: Graduated Master Student '10
     email: yxzsp1986@gmail.com
     website: shaopingzhou
     link: https://www.linkedin.com/in/shaopingzhou
-  - img: https://www.synteraction.org/wp-content/uploads/2020/12/KunQian-small.jpeg
+  - img: /assets/images/people/KunQian-small.jpeg
     name: Kun Qian
     possition: Ant Financial, Staff Engineer
     study: Graduated Master Student 'XX

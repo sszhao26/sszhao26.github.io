@@ -193,8 +193,7 @@ layout: default
                 <h2 class="elementor-heading-title elementor-size-default">
                   <span
                     style="font-size: 56px; line-height: 1.3; font-weight: 700"
-                    >We welcome you <br />to join us for <br />an enriching
-                    experience</span
+                    >{{site.data.joinus.title}}</span
                   >
                 </h2>
               </div>
@@ -304,8 +303,7 @@ layout: default
                         <h2
                           class="elementor-heading-title elementor-size-default"
                         >
-                          Part-Time Research Attachment Program
-                          (Singapore/Remote)
+                        {{site.data.joinus.part_time.title}}
                         </h2>
                       </div>
                     </div>
@@ -331,27 +329,16 @@ layout: default
                     >
                       <div class="elementor-widget-container">
                         <ul>
+                          {% for item in site.data.joinus.part_time.list %}
                           <li class="li1">
                             <span class="s1"
-                              >Willing to commit for at least 2 months (in
-                              Singapore) or 4 months (remotely)</span
+                              >{{item}}</span
                             >
                           </li>
-                          <li class="li1">
-                            <span class="s1"
-                              >Currently an undergraduate or Master
-                              student</span
-                            >
-                          </li>
-                          <li class="li1">
-                            <span class="s1"
-                              >Good technical and research analysis skills<br
-                            /></span>
-                          </li>
+                          {% endfor %}
                         </ul>
                         <p>
-                          Note that part-time positions are typically carried
-                          out on a voluntary basis.
+                          {{site.data.joinus.full_time.note}}
                         </p>
                       </div>
                     </div>
@@ -400,7 +387,7 @@ layout: default
                         <h2
                           class="elementor-heading-title elementor-size-default"
                         >
-                          Full-Time Paid Internship
+                          {{site.data.joinus.full_time.title}}
                         </h2>
                       </div>
                     </div>
@@ -426,18 +413,12 @@ layout: default
                     >
                       <div class="elementor-widget-container">
                         <ul>
-                          <li>Must be in Singapore, and not remote</li>
-                          <li>
-                            Willing to commit full-time for at least 4 months
-                          </li>
-                          <li>
-                            Currently undergraduate or has recently&nbsp;
-                            graduated with a bachelor
-                          </li>
+                          {% for item in site.data.joinus.full_time.list %}
+                           <li>{{item}}</li>
+                          {% endfor %}
                         </ul>
                         <p>
-                          Note that full-time positions may receive salaries
-                          depending on the arrangement.
+                          {{site.data.joinus.full_time.note}}
                         </p>
                       </div>
                     </div>
@@ -512,29 +493,20 @@ layout: default
                     >
                       <div class="elementor-widget-container">
                         <ul>
+                          
+                          {% for data in site.data.joinus.both_programs.deliverables %}
                           <li class="li1">
-                            Independently manage time to clear tasks
-                          </li>
-                          <li>
-                            Meet at least once a week for project
-                            updates/discussions
-                          </li>
-                          <li>
-                            Assist the development and design of currently
-                            active research projects through at least one of the
-                            following<br />tasks:
+                            {{data.item}}
+                            {% if data.tasks %}
+                            <br />tasks:
                             <ul>
-                              <li>Create videos</li>
-                              <li>Review literature</li>
-                              <li>
-                                Design illustrations and system interfaces
-                              </li>
-                              <li>
-                                Code with Java (for Android) or C# (for Unity)
-                              </li>
-                              <li>Conduct experiments and analyse results</li>
+                              {% for task in data.tasks %}
+                              <li>{{task}}</li>
+                              {% endfor %}
                             </ul>
+                            {% endif %}
                           </li>
+                          {% endfor %}
                         </ul>
                       </div>
                     </div>
@@ -560,17 +532,12 @@ layout: default
                     >
                       <div class="elementor-widget-container">
                         <ul>
+                          
+                          {% for data in site.data.joinus.both_programs.benefits %}
                           <li class="li1">
-                            Increase understanding of HCI research processes
+                            {{data}}
                           </li>
-                          <li>
-                            Increase understanding of NUS-HCI Lab: its culture
-                            and values
-                          </li>
-                          <li>
-                            Direct collaboration and networking opportunities
-                            with PhD students or PostDoc
-                          </li>
+                          {% endfor %}
                         </ul>
                       </div>
                     </div>
@@ -596,18 +563,12 @@ layout: default
                     >
                       <div class="elementor-widget-container">
                         <ul>
+                          
+                          {% for data in site.data.joinus.both_programs.potential_rewards %}
                           <li>
-                            Pursue Master or PhD with NUS-HCI Lab (if good
-                            performance)
+                            {{data}}
                           </li>
-                          <li>
-                            Letter of recommendation by Prof. Shen (if good
-                            performance and duration is at least 6 months)
-                          </li>
-                          <li>
-                            Paper/Journal authorship (if the contribution is
-                            significant and project is successfully published)
-                          </li>
+                          {% endfor %}
                         </ul>
                       </div>
                     </div>
@@ -724,59 +685,22 @@ layout: default
                     >
                       <div class="elementor-widget-container">
                         <ul>
+                          {%  for item in site.data.joinus.frequently_asked_questions%}
                           <li>
                             <strong
-                              >What is the average hours of commitment for the
-                              part-time attachment?</strong
+                              >{{item.question}}</strong
                             >
                           </li>
-                          <li style="list-style-type: none">
-                            <ul>
-                              <li>
-                                The hours of commitment depends on the project
-                                and situation.
-                              </li>
-                              <li>
-                                To make meaningful contributions, at least 10
-                                hours per week will be useful.<br /><br />
-                              </li>
-                            </ul>
-                          </li>
-                          <li>
-                            <strong
-                              >Which Master/PhD program is available?</strong
-                            >
-                            <ul>
-                              <li>
-                                Please refer to the official programs offered by
-                                NUS School of Computing.<br /><br />
-                              </li>
-                            </ul>
-                          </li>
-                          <li>
-                            <strong
-                              >Is there any deadline to the research
-                              programs?</strong
-                            >
-                            <ul>
-                              <li>
-                                No deadline, as we are reviewing applications on
-                                a rolling basis.<br /><br />
-                              </li>
-                            </ul>
-                          </li>
-                          <li>
-                            <strong
-                              >I am currently on Leave of Absence (LOA) this
-                              semester. Which program should I apply to?</strong
-                            >
-                            <ul>
-                              <li>
-                                The Part-time Research Attachment Program is
-                                suitable for students on LOA.
-                              </li>
-                            </ul>
-                          </li>
+                            {%  for a in item.ans %} 
+                            <li style="list-style-type: none">
+                              <ul>
+                                <li>
+                                  {{a}}
+                                </li>
+                              </ul>
+                            </li>
+                            {% endfor %}
+                          {% endfor %}
                         </ul>
                       </div>
                     </div>

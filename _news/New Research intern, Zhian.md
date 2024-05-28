@@ -2,7 +2,7 @@
 layout: new
 title: "New Research intern, Zhian"
 description: "We have a new research intern from Tsinghua University, Zhian. Get to know him:"
-image: /assets/images/wangpeilin-1024x819.jpg
+image: /assets/images/people/Hu-Zhian.jpg
 date:  "2024-04-24"
 category: Interns
 role: Lab Admin

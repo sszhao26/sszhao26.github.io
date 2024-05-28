@@ -2,7 +2,7 @@
 layout: new
 title: "Introducing Our Lab Member: A Visiting PhD Student"
 description: "We are excited to introduce to you Yuxuan Li, who has recently joined our lab! Get to know him more:"
-image: /assets/images/Yuxuan-Li.JPG
+image: /assets/images/people/Yuxuan-Li-5x4.JPG
 date:  "2024-04-05"
 category: Visiting PhD Students
 role: Lab Admin

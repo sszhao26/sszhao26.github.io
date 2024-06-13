@@ -1,4 +1,43 @@
 list:
+  - title:  CHI 2024
+    heading: "Navigating Real-World Challenges: A Quadruped Robot Guiding System for Visually Impaired People in Diverse Environments"
+    authors: Shaojun Cai, Ashwin Ram, Zhengtai Gou, Mohd Alqama Wasim Shaikh, Yu-An Chen, Yingjia Wan, Kotaro Hara, Shengdong Zhao, David Hsu
+    keywords: visual impairment, orientation and mobility, assistive technology, navigation, robot guide dog
+    pdf: /assets/files/Cai, S et al - 2024 - Navigating Real-World Challenges A Quadruped Robot Guiding System for Visually Impaired People in Diverse Environments.pdf
+
+  - title:  CHI 2024
+    heading: "Heads-Up Multitasker: Simulating Attention Switching On Optical Head-Mounted Displays"
+    authors: Yunpeng Bai, Aleksi Ikkala, Antti Oulasvirta, Shengdong Zhao, Lucia J. Wang, Pengzhi Yang, Peisen Xu
+    keywords: multitasking, heads-up computing, computational rationality, deep reinforcement learning, bounded optimal control
+    pdf: /assets/files/Bai, Y et al. - 2024 - Heads-Up Multitasker Simulating Atention Switching On.pdf
+
+  - title:  CHI 2024
+    heading: "AudioXtend: Assisted Reality Visual Accompaniments for Audiobook Storytelling During Everyday Routine Tasks"
+    authors: Felicia Fang-Yi Tan, Peisen Xu, Ashwin Ram, Wei Zhen Suen, Shengdong Zhao, Yun Huang, Christophe Hurter
+    keywords: 
+
+  - title:  CHI EA 2024
+    heading: "Demonstrating PANDALens: Enhancing Daily Activity Documentation with AI-assisted In-Context Writing on OHMD"
+    authors: Nuwan Janaka, Runze Cai, Shengdong Zhao, David Hsu
+    keywords:
+
+  - title:  CHI 2024
+    heading: "Facilitating Virtual Reality Integration in Medical Education: A Case Study of Acceptability and Learning Impact in Childbirth Delivery Training"
+    authors: Chang Liu, Felicia Fang-Yi Tan, Shengdong Zhao, Abhiram Kanneganti, Gosavi Arundhati Tushar, Eng Tat Khoo
+    keywords: Medical Education, Virtual Reality, User Experience Design, Obstetrics & Gynaecology
+    pdf: /assets/files/Liu, C et al. - 2024 - Facilitating Virtual Reality Integration in Medical Education A Case Study of Acceptability and Learning Impact in Childbirth Delivery Training.pdf
+  
+  - title:  CHI 2024
+    heading: "PANDALens: Towards AI-Assisted In-Context Writing on OHMD During Travels"
+    authors: Runze Cai, Nuwan Janaka, Yang Chen, Lucia J. Wang, Shengdong Zhao, Can Liu
+    keywords: HMD, smart glasses, AI, large language model, multimodal information, Human-AI collaborative writing, in-context writing, travel blog
+    pdf: /assets/files/Cai, R et al. - 2024 - PANDALens Towards AI-Assisted In-Context Writing on OHMD.pdf
+  
+  - title:  CoRR 2024
+    heading: "GPTVoiceTasker: LLM-Powered Virtual Assistant for Smartphone"
+    authors: Minh Duc Vu, Han Wang, Zhuang Li, Jieshan Chen, Shengdong Zhao, Zhenchang Xing, Chunyang Chen
+    keywords: 
+    pdf: /assets/files/Vu et al. - 2024 - GPTVoiceTasker LLM-Powered Virtual Assistant for Smartphone.pdf
   
   - title:  Communications of the ACM 2023
     heading: "Heads-Up Computing: Moving Beyond the Device-Centered Paradigm"

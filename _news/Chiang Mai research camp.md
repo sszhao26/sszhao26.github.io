@@ -13,4 +13,4 @@ The six-day intensive training course (July 6-13, 2024) offers more than just ac
 
 This is a unique opportunity to enhance your research skills, collaborate with experienced researchers, and potentially kick-start your publication journey in HCI. All set against the backdrop of Chiang Mai, a city known for its breathtaking landscapes, historic temples, and friendly locals.
 
-If you are interested, please fill out the following form. https://forms.gle/YqeYqdxHueDPv396A
+If you are interested, please fill out the following form. [https://forms.gle/YqeYqdxHueDPv396A](url)

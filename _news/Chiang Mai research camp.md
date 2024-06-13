@@ -1,13 +1,14 @@
 ---
 layout: new
-title: "New Research Intern, Peilin"
-description: "We have a new research intern from City University of Hong Kong, WANG Peilin. Get to know him:"
-image: /assets/images/wangpeilin-1024x819.jpg
-date:  "2024-04-03"
-category: Interns
+title: "A Perfect Blend of Learning and Exploration: Unlock Your HCI Potential in Our Research Camp in Chiang Mai this Summer"
+description: "Synteraction Lab invites you to a summer Research Camp in the second week of July in Chiang Mai, Thailand."
+image: /assets/images/2024 Chiang Mai Research Camp.png
+date:  "2024-06-11"
+category: Activities
 role: Lab Admin
 ---
-We have a new research intern from City University of Hong Kong, WANG Peilin. Get to know him:
+Synteraction Lab invites you to a summer Research Camp in the second week of July in Chiang Mai, Thailand. This stunning city, steeped in history and rich in culture, provides an inspiring backdrop to delve into the exciting world of HCI research.
 
-> I am Lincoln, in the previous weekly meeting shen told me to post my intro and photo to the web. Here is my intro and photo.
-Hi everyone, here is WANG Peilin, you can call me Lincoln as my nickname. I am a year 3 computer science student from City University of Hong Kong. My research interest are AR/VR development and some fantastic UI design to enhance user experience. I am very sociable and eager to make friends with all people, while at the same time I am meticulous and responsible in my research. I am also a hardware geek, collect a lot of CPU, AR/VR device, drone, GPU, there are friends who like these can also discuss with me. In my spare time, I like to play sports, travel, and play billiards, so I’m glad to meet you all!
+The six-day intensive training course (July 6-13, 2024) offers more than just academic enrichment. Shine during the camp, selected participants could join a research internship project, potentially earning a co-author credit in a publication for the prestigious ACM SIGCHI conference. As part of the internship, these participants will also receive three weeks of free accommodation, allowing them to fully immerse themselves in Chiang Mai's tranquil atmosphere and vibrant culture.
+This is a unique opportunity to enhance your research skills, collaborate with experienced researchers, and potentially kick-start your publication journey in HCI. All set against the backdrop of Chiang Mai, a city known for its breathtaking landscapes, historic temples, and friendly locals.
+If you are interested, please fill out the following form. https://forms.gle/YqeYqdxHueDPv396A

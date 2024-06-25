@@ -37,7 +37,6 @@ layout: default
                     .elementor-element .swiper .swiper-pagination-bullets.swiper-pagination-horizontal{
                       bottom: 60px;
                     }
-
                     .mySwiper{
                       height: auto;
                       overflow: hidden;
@@ -325,56 +324,52 @@ layout: default
                       width: var(--container-widget-width);
                       --flex-grow: var(--container-widget-flex-grow);
                     }
+
+                    #my-video{
+                      height: auto;
+                      min-height: 697px;
+                    }
+
+                    @media (max-width: 992px){
+                      #my-video{
+                        min-height: 460px;
+                      }
+                    }
+
+                    @media (max-width: 767px){
+                       #my-video{
+                        min-height: 387px;
+                      }
+                    }
+
+                    @media (max-width: 767px){
+                      #my-video{
+                        min-height: 387px;
+                      }
+                    }
+
+                    @media (max-width: 480px){
+                      #my-video{
+                        min-height: 220px;
+                      }
+                    }
                   </style>
-                  <div class="elementor-wrapper elementor-open-lightbox">
-                    <div
-                      class="elementor-custom-embed-image-overlay"
-                      data-elementor-open-lightbox="yes"
-                      data-elementor-lightbox='{"type":"video","videoType":"youtube","url":"https://www.youtube.com/embed/AmeNqvCSik0?feature=oembed&amp;start&amp;end&amp;wmode=opaque&amp;loop=0&amp;controls=1&amp;mute=0&amp;rel=0&amp;modestbranding=0","modalOptions":{"id":"elementor-lightbox-12f69fb","entranceAnimation":"","entranceAnimation_tablet":"","entranceAnimation_mobile":"","videoAspectRatio":"169"}}'
-                      data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJ0eXBlIjoidmlkZW8iLCJ2aWRlb1R5cGUiOiJ5b3V0dWJlIiwidXJsIjoiaHR0cHM6XC9cL3d3dy55b3V0dWJlLmNvbVwvZW1iZWRcL0FtZU5xdkNTaWswP2ZlYXR1cmU9b2VtYmVkJnN0YXJ0JmVuZCZ3bW9kZT1vcGFxdWUmbG9vcD0wJmNvbnRyb2xzPTEmbXV0ZT0wJnJlbD0wJm1vZGVzdGJyYW5kaW5nPTAiLCJtb2RhbE9wdGlvbnMiOnsiaWQiOiJlbGVtZW50b3ItbGlnaHRib3gtMTJmNjlmYiIsImVudHJhbmNlQW5pbWF0aW9uIjoiIiwiZW50cmFuY2VBbmltYXRpb25fdGFibGV0IjoiIiwiZW50cmFuY2VBbmltYXRpb25fbW9iaWxlIjoiIiwidmlkZW9Bc3BlY3RSYXRpbyI6IjE2OSJ9fQ%3D%3D"
-                    >
-                      <img
-                        data-lazyloaded="1"
-                        src="{{site.data.main.our_vision.image}}"
-                        decoding="async"
-                        width="1050"
-                        height="340"
-                        data-src="{{site.data.main.our_vision.image}}"
-                        class="attachment-full size-full wp-image-3017 entered litespeed-loaded"
-                        alt=""
-                        data-sizes="(max-width: 1050px) 100vw, 1050px"
-                        data-ll-status="loaded"
-                        sizes="(max-width: 1050px) 100vw, 1050px"
-                      /><noscript
-                        ><img
-                          decoding="async"
-                          width="1050"
-                          height="340"
-                          src="{{site.data.main.our_vision.image}}"
-                          class="attachment-full size-full wp-image-3017"
-                          alt=""
-                          sizes="(max-width: 1050px) 100vw, 1050px"
-                      /></noscript>
-                      <div
-                        class="elementor-custom-embed-play"
-                        role="button"
-                        aria-label="Play Video"
-                        tabindex="0"
-                      >
-                        <svg
-                          aria-hidden="true"
-                          class="e-font-icon-svg e-eicon-play"
-                          viewBox="0 0 1000 1000"
-                          xmlns="http://www.w3.org/2000/svg"
-                        >
-                          <path
-                            d="M838 162C746 71 633 25 500 25 371 25 258 71 163 162 71 254 25 367 25 500 25 633 71 746 163 837 254 929 367 979 500 979 633 979 746 933 838 837 929 746 975 633 975 500 975 367 929 254 838 162M808 192C892 279 933 379 933 500 933 621 892 725 808 808 725 892 621 938 500 938 379 938 279 896 196 808 113 725 67 621 67 500 67 379 108 279 196 192 279 108 383 62 500 62 621 62 721 108 808 192M438 392V642L642 517 438 392Z"
-                          ></path>
-                        </svg>
-                        <span class="elementor-screen-only"
-                          >Play Video</span
-                        >
-                      </div>
+                  
+                  <div class="intro-video-container">
+                    <div class="embed-responsive embed-responsive-16by9">
+                        <video
+                            id="my-video"
+                            class="video-js w-100 h-100"
+                            controls
+                            preload="auto"
+                            poster="{{ site.data.main.our_vision.image }}">
+                            <source src="{{ site.data.main.our_vision.videomp4 }}" type="video/mp4" />
+                            <source src="{{ site.data.main.our_vision.videowebm }}" type="video/webm" />
+                            <p class="vjs-no-js">
+                            To view this video please enable JavaScript, and consider upgrading to a
+                            web browser that
+                            </p>
+                        </video>
                     </div>
                   </div>
                 </div>

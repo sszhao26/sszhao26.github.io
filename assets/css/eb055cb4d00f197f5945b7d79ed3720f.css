@@ -29477,11 +29477,11 @@ h1.entry-title {
   src: url(/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.eot);
   src: url(/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.eot?#iefix)
       format("embedded-opentype"),
-    url(/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff2)
+    url(/assets/fonts/fa-solid-900.woff2)
       format("woff2"),
-    url(/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff)
+    url(/assets/fonts/fa-solid-900.woff)
       format("woff"),
-    url(/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.ttf)
+    url(/assets/fonts/fa-solid-900.ttf)
       format("truetype"),
     url(/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.svg#fontawesome)
       format("svg");

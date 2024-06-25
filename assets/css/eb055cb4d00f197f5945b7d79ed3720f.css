@@ -14838,7 +14838,7 @@ body.e-lazyload .lazyloaded .elementor-background-overlay {
 @font-face {
   font-display: swap;
   font-family: elementskit;
-  src: url(/wp-content/plugins/elementskit-lite/modules/elementskit-icon-pack/assets/fonts/elementskit.woff?y24e1e)
+  src: url(/assets/fonts/elementskit.woff)
     format("woff");
   font-weight: 400;
   font-style: normal;

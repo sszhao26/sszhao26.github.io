@@ -1,0 +1,12 @@
+nav:
+  - id: "/"
+    text: "Home"
+  - id: "/publications"
+    text: "Publications"
+  - id: "/news/"
+    text: "News"
+  - id: "/our-team"
+    text: "People"
+  - id: "/join-us"
+    text: "Join Us"
+

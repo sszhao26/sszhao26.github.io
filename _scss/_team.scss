@@ -1,0 +1,119 @@
+// .team{
+//     .section-container{
+//         .hero-container{
+//             min-height: 60vh;
+//         }
+//     }
+// }
+
+@media (max-width: 1199px){
+    .team{
+        .section-container{
+            .hero-container{
+                min-height: 60vh !important;
+            }
+        }
+
+        .elementor-element{
+            &.elementor-element-356bb53{
+                padding-left: 40px;
+                padding-right: 40px;
+
+                .single-column{
+                    width: 50%;
+
+                    .elementor-widget-wrap{
+                        margin-right: 0;
+                    }
+                }
+            }
+
+            &.elementor-element-7814227{
+                padding: 40px;
+            }
+
+            &.elementor-element-d0a86cd{
+                padding: 0px;
+            }
+
+            &.elementor-element-ce719b9{
+                padding-left: 0;
+                padding-right: 0;
+            }
+
+            &.elementor-element-b661609{
+                padding-left: 0;
+                padding-right: 0;
+            }
+
+            &.elementor-element-2bd1c8a{
+                padding-left: 0;
+                padding-right: 0; 
+
+                 .elementor-widget-container{
+                    padding-left: 40px !important;
+                    padding-right: 40px !important;
+                }
+            }
+
+            &.elementor-element-0fc3b23{
+                padding-left: 40px;
+                padding-right: 40px;
+            }
+
+            &.elementor-element-1f06bce{
+                padding-left: 40px;
+                padding-right: 40px;
+            }
+
+            img{
+                display: block;
+                max-width: 100% !important;
+                width: 100% !important;
+                height: auto;
+                margin-left: auto;
+                margin-right: auto;
+            }
+        }
+
+        .elementor-column{
+            &.elementor-col-20{
+                width: 33.33%;
+            }
+        }       
+    }
+}
+
+@media (max-width: 767px){
+     .team{
+        .elementor-element{
+            &.elementor-element-356bb53{
+                .single-column{
+                    width: 100%;
+                }
+            }
+        }
+    }    
+
+    .elementor-62{
+        .elementor-element{
+            &.elementor-element-f415913{
+                padding: 40px;
+            }
+        }
+    }
+}
+
+@media (max-width: 575px){
+    .team{
+        .elementor-widget-wrap{
+            margin-right: 0 !important;
+        }
+        .elementor-column{
+            &.elementor-col-20{
+                width: 50%;
+            }
+        }
+    }
+
+}

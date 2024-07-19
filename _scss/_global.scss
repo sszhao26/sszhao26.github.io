@@ -14,8 +14,8 @@
             .nav-link{
                 position: relative;
                 color: #333333;
-                padding-left: 11px;
-                padding-right: 11px;
+                padding-left: 7px;
+                padding-right: 7px;
                 -webkit-transition: all .25s ease-out;
                 transition: all .25s ease-out;
                 font-weight: 400;
@@ -104,7 +104,8 @@
 
         .navbar-toggler-icon{
             margin-right: 6px;
-            color: #fda829;
+            background-image: url("/assets/images/burger-menu.png");
+            background-repeat: no-repeat;
         }
         
         .navbar-toggler-text{

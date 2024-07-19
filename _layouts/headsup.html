@@ -1,0 +1,148 @@
+---
+layout: default
+---
+<section class="heads-up-computing">
+    <div class="container">
+        <div class="hero-container">
+            <img src="/assets/images/1.-Heads-Up-evolution-scaled.jpg" class="hero-banner img-fluid d-block"/>
+        </div>
+    
+        <div class="content-container">
+            <h2 class="section-header">Heads-up Computing Homepage</h2>
+            <h3 class="sub-header">Overview</h3>
+            <p>Heads-Up Computing is an emerging field in Human-Computer Interaction (HCI) that focuses on creating computing systems that integrate smoothly into a user's natural environment and daily activities. The objective is to provide information and computing capabilities to users in a way that is unobtrusive and complementary to their current tasks, rather than distracting or requiring dedicated attention away from their immediate real-world context.</p>
+            <p>To clarify further, here's a breakdown of the components that contribute to Heads-Up Computing:</p>
+
+            <h3 class="sub-header">Body-Compatible Hardware Components</h3>
+            <p>Current devices are not designed to support seamless use during daily activities.</p>
+            <p>Mobile phones allow us to interact with digital information on the go, but they often distract us, turning us into so-called smartphone zombies. This is because their input and output components are centralized on the device, requiring us to adjust our input and output to match the device's design.</p>
+            <p>Heads-up computing, on the other hand, is designed to align with human input/output capabilities. Rather than using a centralized design, it employs a distributed design and separates the computer into two pieces: the head-piece and the hand-piece.</p>
+            
+            <ul>
+                <p>Responsibilities of the head-piece:</p>
+                <li>Provide real time visual and aural feedback</li>
+                <li>Understand what human sees and hears</li> 
+                <li>Understand facial gestures & emotion</li> 
+                <li>Understand attention</li> 
+                <li>Speech input</li>             
+            </ul>
+
+            <ul>
+                <p>Responsibilities of the hand-piece:</p>
+                <li>Provide real time haptic feedback</li>
+                <li>Track hand position, posture, movements</li>
+                <li>Provide additional interaction commands.</li>
+            </ul>
+
+            <p>This is merely a functional division, and its implementation can vary. For instance, Apple's vision pro integrates the hand-piece within the head-piece, eliminating the need for a separate hand-based device.</p>
+            <ul>
+                <p>A basic setup of the heads-up platform can be seen in the following papers:</p>
+                <li>
+                    <p>
+                        <b>Eyeditor, GlassMessaging,</b> and <b>PandaLens</b>
+                        use a wearable ring mouse as their hand-piece. Note that this device does not have the ability to track hand position, posture, movements, or provide active haptic feedback.
+                    </p>
+                    <img src="/assets/images/eye-editor.png" class="img-fluid d-block"/>
+                </li>
+            </ul>
+
+            <br/>
+
+            <h3 class="sub-header">Multimodal Voice, Gaze, and Gesture Interaction</h3>
+            <p>For seamless interaction during daily activities, it's essential to utilize complementary channels. This is because most daily tasks engage human's visual attention and manual movements. If digital interaction also heavily depends on these, it could cause significant conflict and disrupt seamless interaction.</p>
+            <p>Heads-Up Computing makes use of natural, complementary human communication modalities for device interaction. Instead of relying solely on traditional input methods like keyboards, mice, or touchscreens that occupy the hands and eyes, it incorporates:</p>
+            <ul>
+                <li><b>Voice: </b> Allows hands-free control and communication with devices.
+                    <ul>
+                        <li>
+                            Examples of using voice interaction for information processing for Heads-up Computing include:
+                            <p>
+                                <a href="https://dl.acm.org/doi/10.1145/3173574.3173977" target="_blank">EDITalk | Proceedings of the 2018 CHI Conference on Human Factors in Computing Systems</a>
+                            </p>
+                            <p>
+                                <a href="https://dl.acm.org/doi/abs/10.1145/3313831.3376173" target="_blank"> EYEditor | Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems</a>
+                            </p>
+                        </li>
+                        <li>Editalk explores the use of pure audio for mobile information processing, while we improved the design, it is still fundamentally very difficult to use.</li>
+                        <li>Instead, we further developed Eyeditor, by combining Editalk techniques with an OHMD (smartglasses), the editing experience has improved significantly.</li>
+                        <li>Following this effort, we further developed GlassMessaging, a primarily voice-based Heads-up application for messaging, and PandaLens, which uses not only voice, but also multimodal contextual information with the power of LLM to help someone to write travel blogs on the go.
+                            <p>
+                                <a href="https://dl.acm.org/doi/10.1145/3610931" target="_blank"> GlassMessaging: Towards Ubiquitous Messaging Using OHMDs: Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies: Vol 7, No 3</a>
+                            </p>
+                        </li>
+                    </ul>
+                </li>
+
+                <li>
+                    <b>Gaze tracking:</b>
+                    Uses eye movement to guide or control aspects of the computing experience.
+                    <ul>
+                        <li>Research in this has been difficult due to the lack of an eye-tracker that can be used in mobile environment, but research in this area will become easier with the arrival of Apple’s Vision Pro.</li>
+                    </ul>
+                </li>
+
+                <li>
+                    <b>Micro or complementary gesture recognition:</b>
+                    Leverages gestures that can be performed reliably and complementarily while engaging in other tasks. This includes micro-hand or finger gestures, head gestures, etc. to meet interaction needs.
+                    <ul>
+                        <li>For more information on which micro-gesture is more suitable for heads-up computing, one can refer to this paper</li>
+                    </ul>
+                </li>
+                <li>
+                    <a href="https://dl.acm.org/doi/10.1145/3447526.3472035" target="_blank">Ubiquitous Interactions for Heads-Up Computing: Understanding Users’ Preferences for Subtle Interaction Techniques in Everyday Settings | Proceedings of the 23rd International Conference on Mobile Human-Computer Interaction</a>
+                    <ul>
+                        <li>Furthermore, both <b>Eyeditor</b> and <b>PandaLens</b> have used a wearable ring mouse to allow micro-gestures to be performed in on the go scenarios.</li>
+                    </ul>
+                </li>
+            </ul>
+            <h3 class="sub-header">Environmental aware & fragmented attention friendly interaction design→Resource Aware Interaction Model</h2>
+            <h3 class="sub-header">Fragmented attention friendly interaction</h2>
+
+            <ul>
+                <p>Heads-Up Computing interfaces are specifically designed to be environmentally aware and suitable for fragmented attention. This means they can be effectively interacted with during mobile multitasking scenarios. Designing these interfaces requires a complete redesign.</p>
+                <li>
+                    Redesign the text spacing:
+                    <a href="https://dl.acm.org/doi/full/10.1145/3544548.3581430" target="_blank">Not All Spacings are Created Equal: The Effect of Text Spacings in On-the-go Reading Using Optical See-Through Head-Mounted Displays | Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems</a>
+                </li>
+                <li>
+                    Use icon instead of text for notifications:
+                    <a href="https://dl.acm.org/doi/full/10.1145/3544548.3580891" target="_blank"> Can Icons Outperform Text? Understanding the Role of Pictograms in OHMD Notifications | Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems</a>
+                </li>
+                <li>
+                    Redesign the information presentation so that even dynamic information such as videos can be perceived during mobile multitasking situation
+                    <a href="https://dl.acm.org/doi/abs/10.1145/3448118" target="_blank">LSVP: Towards Effective On-the-go Video Learning Using Optical Head-Mounted Displays: Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies: Vol 5, No 1</a>
+                </li>
+            </ul>
+
+            <p>Of course, converting existing media into fragmented attention friendly interfaces can be a tedious process, thus, we have developed a tool to allow people to do this more easily.</p>
+
+            <p><a href="https://dl.acm.org/doi/10.1145/3610928" target="_blank">VidAdapter: Adapting Blackboard-Style Videos for Ubiquitous Viewing: Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies: Vol 7, No 3</a></p>
+
+            <p>A similar concept comes from the work of Doug Bowman on the topic of Glanceable AR:</p>
+
+            <p>In social situations, additional considerations are necessary. Maintaining visual attention on the conversation partner while managing other interaction tasks is crucial. This leads us to the concept of interfaces that maintain attention. Examples of such designs include:</p>
+
+            <p><a href="https://dl.acm.org/doi/10.1145/3491102.3502127" target="_blank">Paracentral and near-peripheral visualizations: Towards attention-maintaining secondary information presentation on OHMDs during in-person social interactions | Proceedings of the 2022 CHI Conference on Human Factors in Computing Systems</a></p>
+
+            <p><a href="https://dl.acm.org/doi/full/10.1145/3544548.3581065" target="_blank">ParaGlassMenu: Towards Social-Friendly Subtle Interactions in Conversations | Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems</a></p>
+
+            <h3 class="sub-header">Resource Aware Interaction</h2>
+
+            <p>Designing interfaces that are friendly to fragmented attention is one approach to creating versatile interfaces for heads-up computing. Another approach involves designing interfaces that are aware of and responsive to the user's current state, including their cognitive load and physical abilities. The system adapts its interactions based on the user's capacity, ensuring that information is delivered and tasks are managed in a way that aligns with the user's available resources, which we cal resource aware interaction.</p>
+
+            <p>For example, if a user is deeply focused on a complex task, the computing system would minimize interruptions and provide information subtly. On the other hand, if the user is in a more relaxed state, the system might present information that requires more attention.</p>
+
+            <p>To this end, we have studied the cognitive modeling of a heads-up multitasker and produced a computational rationality cognitive model to understand users’ mental states:</p>
+
+            <p><a href="https://programs.sigchi.org/chi/2024/program/content/147957" target="_blank">Conference Programs</a></p>
+
+            <p>Based on these models, we can design optimal interfaces to cater to various situations a user may encounter.</p>
+
+            <h3 class="sub-header">Summary</h3>
+
+            <p>Heads-Up Computing aims to reshape the way we interact with technology by creating a computing experience that feels like a natural extension of the user's abilities and their surrounding environment. This approach signifies a significant shift from a device-centric to a human-centric model of computing, where the technology serves the user in a subtle and unobtrusive manner, enhancing their interaction with the real world rather than obstructing it.</p>
+            <p>The text above provides a succinct summary of the key features and objectives of heads-up computing. As a lab, we have made some progress in this exciting field, pushing the frontiers of what is possible with this technology. However, we've only just begun to uncover the vast potential that this field holds. There's still a significant amount of exploration and experimentation required to fully understand and leverage the capabilities of heads-up computing.</p>
+            <p>This exploration includes, but is not limited to, designing suitable input and output methods that cater to a variety of user needs and contexts. We need to accommodate simple interactions such as selection and confirmation, but also more complex tasks like generating a comprehensive report after carrying out an inspection in a factory environment. Moreover, understanding the cognitive and behavioral models that underpin these interactions presents a vast area for research exploration and investigations. This knowledge will allow us to create more intuitive and effective solutions, shaping the future of human-computer interaction.</p>
+        </div>
+    </div>
+</section>

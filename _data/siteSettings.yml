@@ -3,7 +3,7 @@ nav:
     text: "Home"
   - id: "/publications"
     text: "Publications"
-  - id: "/news/"
+  - id: "/news"
     text: "News"
   - id: "/our-team"
     text: "People"

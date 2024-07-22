@@ -94,19 +94,19 @@ interns_and_visiting_researchers:
 graduated_phd_students:
   - img: 	/assets/images/people/Shan_2021.jpg
     name:  Zhang Shan
-    study: Ph.D Student
+    study: Graduated Ph.D Student '24
     email: shan_zhang@u.nus.edu
     website: shan-zhang
     link: https://www.linkedin.com/in/shan-zhang/
   - img: /assets/images/people/Ashwin-2-scaled-e1606445929104-1024x845.jpg
     name:  Ashwin Ram
-    study: Ph.D Student  
+    study: Graduated Ph.D Student '24  
     email: ashwinram@u.nus.edu
     website: ashwin-ram
     link: https://sites.google.com/view/ashwin-ram
   - img: /assets/images/people/Danny-e1660132459955.jpg
     name:  Hyeongcheol Kim 
-    study: Ph.D Student
+    study: Graduated Ph.D Student '24
     email: hckim0911@gmail.com
     website: hckim.net
     link: https://hckim.net/
@@ -184,7 +184,7 @@ graduated_phd_students:
 graduated_master_students:
   - img: /assets/images/people/emran.jpg
     name:  Emran Poh
-    study: Master Student 
+    study: Graduated Master Student '23
     email: emran.poh@u.nus.edu
   - img: /assets/images/people/Yu-Chen.jpg
     name: Yu Chen

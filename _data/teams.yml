@@ -7,27 +7,9 @@ lab_director:
     link: https://shengdongzhao.com/
 
 current_members:
-  - img: /assets/images/people/Danny-e1660132459955.jpg
-    name:  Hyeongcheol Kim 
-    study: Ph.D Student
-    email: hckim0911@gmail.com
-    website: hckim.net
-    link: https://hckim.net/
-  - img: 	/assets/images/people/Shan_2021.jpg
-    name:  Zhang Shan
-    study: Ph.D Student
-    email: shan_zhang@u.nus.edu
-    website: shan-zhang
-    link: https://www.linkedin.com/in/shan-zhang/
-  - img: /assets/images/people/Ashwin-2-scaled-e1606445929104-1024x845.jpg
-    name:  Ashwin Ram
-    study: Ph.D Student  
-    email: ashwinram@u.nus.edu
-    website: ashwin-ram
-    link: https://sites.google.com/view/ashwin-ram
   - img: /assets/images/people/nuwan-small-1024x845.jpg
     name:  Nuwan Janaka
-    study: Ph.D Student  
+    study: Postdoctoral  
     email: nuwanj@comp.nus.edu.sg
     website: nuwanjanaka.info
     link: https://nuwanjanaka.info/
@@ -54,14 +36,6 @@ current_members:
   - img: /assets/images/people/new-visiting-phd.jpeg
     name:  Gu Yue
     study: Visiting Ph.D Student 
-  - img: /assets/images/people/emran.jpg
-    name:  Emran Poh
-    study: Master Student 
-    email: emran.poh@u.nus.edu
-  - img: 	/assets/images/people/Stella-Mao.jpg
-    name:  MAO Yaxuan Stella
-    study: Part-time Research Assistant 
-    email: tellamaoyx@gmail.com
   - img: /assets/images/people/Zhang-Youpeng.jpg
     name:  Zhang Youpeng
     study: Research Assistant
@@ -73,20 +47,16 @@ current_members:
   - img: /assets/images/people/Yuxuan-Li-5x4.JPG
     name:  Yuxuan Li
     study: Visiting Ph.D Student 
+  - img: /assets/images/people/Danny-e1660132459955.jpg
+    name:  Hyeongcheol Kim 
+    study: Visiting Researcher
+    email: hckim0911@gmail.com
+    website: hckim.net
+    link: https://hckim.net/
   
-interns_and_visiting_researchers:
-  
-  - img: /assets/images/people/WANG-Zheng-1024x819.jpg
-    name: WANG Zheng 
-    interns: Intern '23
+interns_and_visiting_researchers:  
   - img: /assets/images/people/Shuraj.jpg
     name: Shenoy Suraj Bantwal 
-    interns: Intern '23
-  - img: /assets/images/people/photo_zyd-Yingdong-Zhang-1024x819.jpg
-    name: Zhang Yingdong
-    interns: Intern '23
-  - img: /assets/images/people/Darice-Wong.jpeg
-    name: Darice Wong 
     interns: Intern '23
   - img: /assets/images/people/Yu-Rou-Lin.jpg
     name: Yu-Rou Lin 
@@ -105,7 +75,24 @@ interns_and_visiting_researchers:
     interns: Intern '24
 
 graduated_phd_students:
-  
+  - img: 	/assets/images/people/Shan_2021.jpg
+    name:  Zhang Shan
+    study: Ph.D Student
+    email: shan_zhang@u.nus.edu
+    website: shan-zhang
+    link: https://www.linkedin.com/in/shan-zhang/
+  - img: /assets/images/people/Ashwin-2-scaled-e1606445929104-1024x845.jpg
+    name:  Ashwin Ram
+    study: Ph.D Student  
+    email: ashwinram@u.nus.edu
+    website: ashwin-ram
+    link: https://sites.google.com/view/ashwin-ram
+  - img: /assets/images/people/Danny-e1660132459955.jpg
+    name:  Hyeongcheol Kim 
+    study: Ph.D Student
+    email: hckim0911@gmail.com
+    website: hckim.net
+    link: https://hckim.net/
   - img: 	/assets/images/people/deb-small.jpg
     name: Debjyoti GHOSH
     possition: Google, Quantitative UX Researcher
@@ -178,6 +165,10 @@ graduated_phd_students:
     link: https://zhukening.wixsite.com/aboutme
     
 graduated_master_students:
+  - img: /assets/images/people/emran.jpg
+    name:  Emran Poh
+    study: Master Student 
+    email: emran.poh@u.nus.edu
   - img: /assets/images/people/Yu-Chen.jpg
     name: Yu Chen
     study: Graduated Master Student '22
@@ -241,6 +232,15 @@ graduated_master_students:
 
 
 alumni:
+  - name:  MAO Yaxuan Stella
+    intern: Part-time Research Assistant '23
+    email: tellamaoyx@gmail.com
+  - name: Zhang Yingdong
+    interns: Intern '23
+  - name: Darice Wong 
+    interns: Intern '23
+  - name: WANG Zheng 
+    interns: Intern '23
   - name: Mohd Alqama Shaikh
     intern: Intern '23
     email: awshaikh_b21@me.vjti.ac.in

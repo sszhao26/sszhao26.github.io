@@ -40,6 +40,7 @@ current_members:
   - img: /assets/images/people/new-visiting-phd.jpeg
     name:  Gu Yue
     study: Visiting Ph.D Student
+    email:
     website: yuegu.my.canva.site/dagbfac5ul8
     link: https://yuegu.my.canva.site/dagbfac5ul8
   - img: /assets/images/people/Zhang-Youpeng.jpg
@@ -56,7 +57,8 @@ current_members:
     link: https://luoying0.com/
   - img: /assets/images/people/Yuxuan-Li-5x4.JPG
     name:  Yuxuan Li
-    study: Visiting Ph.D Student 
+    study: Visiting Ph.D Student
+    email:
     website: sites.google.com/view/lovenicoco
     link: https://sites.google.com/view/lovenicoco
   - img: /assets/images/people/Danny-e1660132459955.jpg

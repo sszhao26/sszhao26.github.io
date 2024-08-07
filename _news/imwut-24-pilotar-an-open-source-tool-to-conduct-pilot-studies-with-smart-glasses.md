@@ -1,7 +1,7 @@
 ---
 layout: new
 title: "IMWUT 2024: PilotAR, an Open-Source Tool to Conduct Pilot Studies with Smart Glasses"
-description: "Congratulations to the authors of "PilotAR: Streamlining Pilot Studies with OHMDs from Concept to Insight". This paper has been accepted (with minor revisions) to IMWUT'24."
+description: "Congratulations to the authors of PilotAR: Streamlining Pilot Studies with OHMDs from Concept to Insight. This paper has been accepted (with minor revisions) to IMWUT 2024."
 image: /assets/images/pilotar_teaser.jpg
 date:  "2024-07-28"
 category: Paper Acceptance

@@ -1,7 +1,7 @@
 ---
 layout: new
 title: "UbiComp Companion 2024: TOM: A Development Platform For Wearable Intelligent Assistants"
-description: "Congratulations to the authors of "TOM: A Development Platform For Wearable Intelligent Assistants"."
+description: "Congratulations to the authors of TOM: A Development Platform For Wearable Intelligent Assistants."
 image: /assets/images/TOM_architecture.png
 date:  "2024-08-04"
 category: Paper Acceptance

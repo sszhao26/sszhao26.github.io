@@ -67,6 +67,12 @@ current_members:
     email: hckim0911@gmail.com
     website: hckim.net
     link: https://hckim.net/
+  - img: /assets/images/aochen-jiao.jpg
+    name:  Aochen Jiao
+    study: Research Assistant
+    email: aochen.jiao@cityu.edu.hk
+    website: aochen-jiao.github.io
+    link: https://aochen-jiao.github.io/
   
 interns_and_visiting_researchers:  
   - img: /assets/images/people/Shuraj.jpg

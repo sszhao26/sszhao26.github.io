@@ -21,4 +21,4 @@ Pilot studies in HCI research serve as a cost-effective approach to validate pot
 ## Video 
 {% include youtube.html id="6Ta_eWziOyo" %}
 
-[PilotAR](/assets/images/pilotar_teaser - Nuwan Janaka.jpg "PilotAR")
+> ![-](/assets/images/pilotar_teaser-Nuwan-Janaka.jpg "-")

@@ -10,6 +10,8 @@ role: Lab Admin
 
 Congratulations to the authors of "PilotAR: Streamlining Pilot Studies with OHMDs from Concept to Insight". This paper has been accepted (with minor revisions) to IMWUT'24. An accompanying demo paper has also been accepted to UbiComp/ISWC 2024. For more details about the paper and the open-source tool, please refer to https://github.com/Synteraction-Lab/PilotAR.
 
+> ![-](/assets/images/pilotar_teaser-Nuwan-Janaka.jpg "-")
+
 ## Authors
 
 Nuwan Janaka, Runze Cai, Ashwin Ram, Lin Zhu, Shengdong Zhao, Kai Qi Yong
@@ -20,5 +22,3 @@ Pilot studies in HCI research serve as a cost-effective approach to validate pot
 
 ## Video 
 {% include youtube.html id="6Ta_eWziOyo" %}
-
-> ![-](/assets/images/pilotar_teaser-Nuwan-Janaka.jpg "-")

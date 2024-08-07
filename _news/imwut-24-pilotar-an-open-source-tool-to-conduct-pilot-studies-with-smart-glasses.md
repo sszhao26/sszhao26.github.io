@@ -18,4 +18,8 @@ Nuwan Janaka, Runze Cai, Ashwin Ram, Lin Zhu, Shengdong Zhao, Kai Qi Yong
 
 Pilot studies in HCI research serve as a cost-effective approach to validate potential ideas and identify impactful findings before extensive studies. Yet, the additional requirements of AR/MR, such as multi-view observations and increased multitasking, make it challenging to conduct pilot studies effectively, hindering innovations in this field. Based on interviews with 12 AR/MR researchers, we identified the key challenges associated with conducting AR/MR pilot studies with Optical See-Through Head-Mounted Displays (OST-HMDs, OHMDs), including the inability to observe and record in-context user interactions, increased task load, and difficulties with in-context data analysis and discussion. To tackle these challenges, we introduce PilotAR, a desktop-based tool designed iteratively to enhance OHMD-based AR/MR pilot studies. PilotAR facilitates data collection via live first-person and third-person views, multi-modal annotations, and flexible wizarding interfaces. It also accommodates multi-experimenter settings, streamlines the study process with configurable workflows and shortcuts, records annotated data, and eases results sharing. Formative testing, conducted using three case studies, has highlighted the significant benefits of PilotAR, as well as its potential for further development and refinement.
 
+## Video 
+<video src="https://youtu.be/6Ta_eWziOyo" controls="controls" style="max-width: 730px;">
+</video>
+
 ![PilotAR](/assets/images/pilotar_teaser - Nuwan Janaka.jpg "PilotAR")

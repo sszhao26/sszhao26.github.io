@@ -462,7 +462,7 @@ layout: default
                         <h3
                           class="elementor-heading-title elementor-size-default"
                         >
-                          <span style="color: #343434">Potential Rewards</span>
+                          <span style="color: #343434">1. Express Your Interest</span>
                         </h3>
                       </div>
                     </div>
@@ -493,7 +493,7 @@ layout: default
                         <h3
                           class="elementor-heading-title elementor-size-default"
                         >
-                          <span style="color: #343434">Procedure</span>
+                          <span style="color: #343434">2. Attend the HCI Research Workshop</span>
                         </h3>
                       </div>
                     </div>
@@ -504,38 +504,12 @@ layout: default
                       data-widget_type="text-editor.default"
                     >
                       <div class="elementor-widget-container">
-                        <ul>
+                        <ul>                          
+                          {% for data in site.data.joinus.both_programs.procedure %}
                           <li>
-                            <span style="font-weight: 400"
-                              >Apply through this form (</span
-                            ><span style="color: #0000ff"
-                              ><a
-                                style="color: #0000ff"
-                                href="https://forms.gle/PRME92NvG6GLraxY8"
-                                ><span style="font-weight: 400"
-                                  >https://forms.gle/PRME92NvG6GLraxY8</span
-                                ></a
-                              ></span
-                            ><span style="font-weight: 400">)</span>
+                            {{data}}
                           </li>
-                          <li>
-                            If your application is favourable, we will arrange
-                            for an interview within 1-2 weeks.
-                          </li>
-                          <li>
-                            <span style="font-weight: 400"
-                              >If you need to contact us, here is our email
-                              address: </span
-                            ><span style="color: #0000ff"
-                              ><a
-                                style="color: #0000ff"
-                                href="mailto:join-nus-hci@googlegroups.com"
-                                ><span style="font-weight: 400"
-                                  >join-nus-hci@googlegroups.com</span
-                                ></a
-                              ></span
-                            >
-                          </li>
+                          {% endfor %}
                         </ul>
                       </div>
                     </div>

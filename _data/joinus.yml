@@ -24,14 +24,17 @@ both_programs:
 
   benefits: Step-by-Step Guide to Joining Synteraction Lab
   
-  potential_rewards:
+  step1:
    - Follow our WeChat public account
    - Indicate your interest in joining the workshop by emailing us or by filling out the online application form when it becomes available.
    - Begin your preparation by reading the recommended materials for first-year PhD students, which will be provided upon your expression of interest.
 
-  procedure:
+  step2:
    - Schedule - The workshop is held annually in early July and lasts for 10 days. It begins with five days of seminars focused on the fundamentals of HCI research, followed by a five-day intensive "paperthon" where you will start developing a research project.
    - Post-Workshop Development - After the initial 10 days, you can spend an additional 20 days in Chiang Mai. During this period, you will receive daily guidance to further advance your project. After the immersive experience, you have the opportunity to continue collaborating with our lab remotely to finalize your paper. This ongoing partnership enables you to further refine your research and prepare for submission to prestigious HCI conferences such as CHI or UbiComp, enhancing the impact and reach of your work.
+
+  step3:
+   - While we strongly encourage participation in the Chiang Mai Research Workshop, we understand that it may not be feasible for everyone. If you are unable to attend the workshop, we invite you to explore our research attachment options. You can submit a research proposal and initiate a project under the guidance of lab members and the professor. This opportunity allows you to develop your research further and aim for a submission to a top HCI venue. Please feel free to contact us for more details on how to proceed.
 
 frequently_asked_questions:
  - question: What is the average hours of commitment for the part-time attachment?

@@ -10,13 +10,11 @@ part_time:
   note: Given these investments, it is crucial that they translate into the development of exceptional researchers. Premature departures or less-than-satisfactory research outcomes can lead to significant losses—not just in financial terms, but also in time and effort. This underscores why we are so selective in our admissions process, aiming to ensure that every student has the potential to excel and contribute positively to our lab community.
 
 full_time:
-  title: Full-Time Paid Internship
-  sub: Eligibility
-  list:
-   - Must be in Hong Kong, and not remote
-   - Willing to commit full-time for at least 4 months
-   - Currently undergraduate or has recently graduated with a bachelor
-  note: Note that full-time positions may receive salaries depending on the arrangement.
+  title: The Challenge of Assessing Potential
+  note: Evaluating a prospective student's potential is a complex task. Traditional tools such as CVs, portfolios, and interviews often do not fully capture a candidate's true capabilities. Successful researchers excel beyond their technical skills; they are adept in time management, display resilience, and possess robust social skills—all critical for thriving in a research environment.
+
+
+Furthermore, even glowing recommendation letters might not always provide a complete picture unless they are from reliable sources within our established network. This highlights the challenge of identifying truly promising candidates who can meet the high standards of our lab. Thus, our selection process is designed to assess these diverse competencies to ensure we choose individuals who can significantly contribute to and benefit from our research community.
 
 both_programs:
   title: Both programs share the following information

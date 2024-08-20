@@ -45,18 +45,6 @@ both_programs:
   step5:
    - While we strongly encourage participation in the Chiang Mai Research Workshop, we understand that it may not be feasible for everyone. If you are unable to attend the workshop, we invite you to explore our research attachment options. You can submit a research proposal and initiate a project under the guidance of lab members and the professor. This opportunity allows you to develop your research further and aim for a submission to a top HCI venue. Please feel free to contact us for more details on how to proceed.
 
-frequently_asked_questions:
- - question: What is the average hours of commitment for the part-time attachment?
-   ans:
-   - The hours of commitment depends on the project and situation.
-   - To make meaningful contributions, at least 10 hours per week will be useful.
- - question: Which Master/PhD program is available?
-   ans:
-   - Please refer to the official programs offered by CityU of Hong Kong.
- - question: Is there any deadline to the research programs?
-   ans:
-   - No deadline, as we are reviewing applications on a rolling basis.
- - question: I am currently on Leave of Absence (LOA) this semester. Which program should I apply to?
-   ans:
-   - The Part-time Research Attachment Program is suitable for students on LOA.
- 
+final_thoughts:
+  title: Final Thoughts
+  desc: We understand the competitive nature of joining a top-tier research lab like Synteraction Lab. We believe this structured pathway offers a fair, rigorous, and rewarding approach for selecting candidates. It also provides an excellent opportunity for prospective students to gain a deep understanding of what a graduate career in HCI entails and to evaluate their readiness and commitment to this challenging yet rewarding field. For those dedicated to becoming outstanding HCI researchers, we are eager to support your journey. Your hard work, perseverance, and passion are key to unlocking the opportunities we offer.

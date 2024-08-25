@@ -75,6 +75,12 @@ current_members:
     link: https://aochen-jiao.github.io/
   
 interns_and_visiting_researchers:  
+  - img: /assets/images/wang-silang.PNG
+    name: Wang Silang
+    interns: Intern '22
+    email: wangsilangCHANGE@gmail.com
+    website: wangsilangchange.wixsite.com/sl-wang
+    link: https://wangsilangchange.wixsite.com/sl-wang
   - img: /assets/images/people/Shuraj.jpg
     name: Shenoy Suraj Bantwal 
     interns: Intern '23
@@ -96,12 +102,6 @@ interns_and_visiting_researchers:
   - img: /assets/images/ruoxin-sun.jpeg
     name: Ruoxin (Sylvia) Sun
     interns: Intern '24
-  - img: /assets/images/wang-silang.PNG
-    name: Wang Silang
-    interns: Intern '22
-    email: wangsilangCHANGE@gmail.com
-    website: wangsilangchange.wixsite.com/sl-wang
-    link: https://wangsilangchange.wixsite.com/sl-wang
     
 
 graduated_phd_students:

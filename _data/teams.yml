@@ -96,6 +96,13 @@ interns_and_visiting_researchers:
   - img: /assets/images/ruoxin-sun.jpeg
     name: Ruoxin (Sylvia) Sun
     interns: Intern '24
+  - img: /assets/images/wang-silang.PNG
+    name: Wang Silang
+    interns: Intern '22
+    email: wangsilangCHANGE@gmail.com
+    website: wangsilangchange.wixsite.com/sl-wang
+    link: https://wangsilangchange.wixsite.com/sl-wang
+    
 
 graduated_phd_students:
   - img: 	/assets/images/people/Shan_2021.jpg
@@ -337,9 +344,6 @@ alumni:
   - name: Raina Song
     intern: Intern '22
     email: rainasongnz@gmail.com
-  - name: Wang Silang
-    intern: Intern '22 (Remote)
-    email: wangsilangchange@gmail.com
   - name: Benjamin Tan
     intern: Intern '22
     email: benjamintan@u.nus.edu

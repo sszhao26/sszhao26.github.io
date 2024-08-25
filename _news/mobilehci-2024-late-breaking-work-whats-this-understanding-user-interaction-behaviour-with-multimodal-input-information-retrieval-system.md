@@ -2,7 +2,7 @@
 layout: new
 title: "MobileHCI 2024 Late-Breaking Work: What's this?: Understanding User Interaction Behaviour with Multimodal Input Information Retrieval System"
 description: "Congratulations to the authors of What's this?: Understanding User Interaction Behaviour with Multimodal Input Information Retrieval System"
-image: /assets/images/MobileHCI-2024-Late-Breaking-Work-Whats-this.png
+image: /assets/images/Whats-this.png
 date:  "2024-08-25"
 category: Paper Acceptance
 role: Lab Admin

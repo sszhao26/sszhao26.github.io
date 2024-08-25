@@ -8,7 +8,7 @@ category: Paper Acceptance
 role: Lab Admin
 ---
 
-Congratulations to the authors of "What's this?": Understanding User Interaction Behaviour with Multimodal Input Information Retrieval System"! 
+Congratulations to the authors of "What's this?: Understanding User Interaction Behaviour with Multimodal Input Information Retrieval System"! 
 
 This paper has been accepted to MobileHCI 2024 Late Breaking Work track. Fun fact: the changeable lizard (Calotes versicolor) in the picture you see in this post is a real lizard the first author of the paper encountered on the campus of NUS, which made him wonder "what's this?", and shortly after the title of the paper was decided.
 

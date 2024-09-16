@@ -3,7 +3,7 @@ layout: new
 title: "Visit by Prof. Mi Haipeng and Prof. Fu Xinyi’s Group"
 description: "The lab had the honor of hosting Prof. Mi Haipeng and Prof. Fu Xinyi’s group."
 image: /assets/images/prof-visit.jpg
-date:  "2024-09-15"
+date:  "2024-09-16"
 category: Activities
 role: Lab Admin
 ---

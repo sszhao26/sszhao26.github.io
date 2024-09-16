@@ -1,12 +1,12 @@
 ---
 layout: new
-title: "Wonderful Reunion in Singapore of Synteraction Lab"
-description: "What a fantastic evening we had at our Synteraction Lab reunion in Singapore!"
-image: /assets/images/reunion singapore.jpg
-date:  "2024-06-12"
+title: "Research Team Celebrates Post-CHI Deadline Success"
+description: "The research team at our Lab celebrated their CHI paper submission. "
+image: /assets/images/post-chi-celebration.jpg
+date:  "2024-09-16"
 category: Activities
 role: Lab Admin
 ---
-What a fantastic evening we had at our Synteraction Lab reunion in Singapore! 
+The research team at our Lab celebrated their CHI paper submission. 
 
-Thank you, Prof. Shen, for the delightful treat and for bringing us all together. It was great catching up, sharing our research journeys, and creating new memories. Cheers to more such gatherings and continued collaboration!
+Professor Shen praised the team’s hard work and dedication and the event also included a meal together. The celebration ended with a toast to future successes and a renewed commitment to advancing HCI research.

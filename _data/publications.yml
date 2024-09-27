@@ -1,4 +1,10 @@
 list:
+  - title:  MobileHCI LBW 2024
+    heading: ""What's this?" Understanding User Interaction Behaviour with Multimodal Input Information Retrieval System"
+    authors: Silang Wang, Hyeongcheol Kim, Nuwan Janaka, Kun Yue, Hoang-Long Nguyen, Shengdong Zhao, Haiming Liu, Khanh-Duy Le
+    keywords: Information Retrieval, Multimodal Interaction, User Search Behaviour, Heads-up Computing
+    pdf: /assets/files/Wang S, et al - 2024 - Understanding User Interaction Behaviour with.pdf
+
   - title:  CHI 2024
     heading: "Navigating Real-World Challenges: A Quadruped Robot Guiding System for Visually Impaired People in Diverse Environments"
     authors: Shaojun Cai, Ashwin Ram, Zhengtai Gou, Mohd Alqama Wasim Shaikh, Yu-An Chen, Yingjia Wan, Kotaro Hara, Shengdong Zhao, David Hsu

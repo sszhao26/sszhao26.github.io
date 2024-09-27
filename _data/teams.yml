@@ -73,6 +73,12 @@ current_members:
     email: aochen.jiao@cityu.edu.hk
     website: aochen-jiao.github.io
     link: https://aochen-jiao.github.io/
+  - img: /assets/images/Zirui-Xiao.jpeg
+    name:  Zirui Xiao
+    study: MPhil Student
+    email: ziruixiao2-c@my.cityu.edu.hk
+    website: alien.bz
+    link: https://alien.bz
   
 interns_and_visiting_researchers:  
   - img: /assets/images/wang-silang.PNG

@@ -1,6 +1,6 @@
 ---
 layout: new
-title: "Reunion in Beijing Luoying and GuYue’s Encounter"
+title: "Reunion in Beijing, Luoying and GuYue"
 description: " "
 image: /assets/images/reunion-in-beijing.jpg
 date:  "2024-0926"

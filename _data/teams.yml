@@ -61,6 +61,12 @@ current_members:
     email:
     website: sites.google.com/view/lovenicoco
     link: https://sites.google.com/view/lovenicoco
+  - img: /assets/images/Zirui-Xiao.jpeg
+    name:  Zirui Xiao
+    study: MPhil Student
+    email: ziruixiao2-c@my.cityu.edu.hk
+    website: alien.bz
+    link: https://alien.bz
   - img: /assets/images/people/Danny-e1660132459955.jpg
     name:  Hyeongcheol Kim 
     study: Visiting Researcher
@@ -73,12 +79,12 @@ current_members:
     email: aochen.jiao@cityu.edu.hk
     website: aochen-jiao.github.io
     link: https://aochen-jiao.github.io/
-  - img: /assets/images/Zirui-Xiao.jpeg
-    name:  Zirui Xiao
-    study: MPhil Student
-    email: ziruixiao2-c@my.cityu.edu.hk
-    website: alien.bz
-    link: https://alien.bz
+  - img: /assets/images/Sam-Wang.jpg
+    name:  Sam Wang
+    study: Research Assistant
+    email: samwang9199@gmail.com
+    website: 
+    link: 
   
 interns_and_visiting_researchers:  
   - img: /assets/images/wang-silang.PNG

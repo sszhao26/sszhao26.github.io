@@ -19,3 +19,7 @@ The day also featured a captivating talk by Prof. Shengdong Zhao on Heads-Up Com
 ![-](/assets/images/monash-uni-talk.jpg "-")
 
 These events underscore Monash University’s role as a hub for pioneering research and interdisciplinary collaboration.
+
+The visit concluded with a delightful dinner in Melbourne.
+
+![-](/assets/images/lab-dinner-in-melbourne.jpg "-")

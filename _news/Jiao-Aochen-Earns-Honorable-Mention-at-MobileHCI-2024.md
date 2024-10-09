@@ -4,7 +4,7 @@ title: "Jiao Aochen Earns Honorable Mention at MobileHCI 2024"
 description: " "
 image: /assets/images/aochen-award.png
 date:  "2024-10-07"
-category: Wards
+category: Awards
 role: Lab Admin
 ---
 In a proud moment, Jiao Aochen of the Synteraction Lab has been awarded an Honorable Mention at the prestigious ACM MobileHCI 2024 conference. Jiao’s groundbreaking work, "Medusa3D: The Watchful Eye Freezing Illegitimate Users in Virtual Reality Interactions," has captured the attention of the global HCI community.

@@ -9,7 +9,7 @@ role: Lab Admin
 ---
 Several Synteraction Lab members attended MobileHCI and UbiComp/ISWC 2024 in Melbourne, Australia, to present their work. The event also provided wonderful opportunities for gatherings, meeting prominent researchers, and visiting research labs across Australia.
 
-##At MobileHCI 2024
+## At MobileHCI 2024
 - **Aochen Jiao** presented the paper _"Medusa3D: The Watchful Eye Freezing Illegitimate Users in Virtual Reality Interactions"_ [(Read more)](https://dl.acm.org/doi/10.1145/3676515) and received an honorable mention award. Congratulations!
 
 - **Silang Wang (William)** presented the LBW _"What's this?": Understanding User Interaction Behaviour with a Multimodal Input Information Retrieval System_ [(Read more)]([https://dl.acm.org/doi/10.1145/3676515](https://dl.acm.org/doi/10.1145/3640471.3680230)).

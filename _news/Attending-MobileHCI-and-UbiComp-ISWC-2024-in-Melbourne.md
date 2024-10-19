@@ -10,7 +10,7 @@ role: Lab Admin
 Several Synteraction Lab members attended MobileHCI and UbiComp/ISWC 2024 in Melbourne, Australia, to present their work. The event also provided wonderful opportunities for gatherings, meeting prominent researchers, and visiting research labs across Australia.
 
 **At MobileHCI 2024**
-- Aochen Jiao presented the paper "Medusa3D: The Watchful Eye Freezing Illegitimate Users in Virtual Reality Interactions" (Read more) and received an honorable mention award. Congratulations!
+- Aochen Jiao presented the paper _"Medusa3D: The Watchful Eye Freezing Illegitimate Users in Virtual Reality Interactions"_ [(Read more)] (https://dl.acm.org/doi/10.1145/3676515) and received an honorable mention award. Congratulations!
 
 - Silang Wang (William) presented the LBW "What's this?": Understanding User Interaction Behaviour with a Multimodal Input Information Retrieval System (Read more).
 
@@ -32,7 +32,7 @@ Several Synteraction Lab members attended MobileHCI and UbiComp/ISWC 2024 in Mel
 ![-](/assets/images/3.jpg "-")
 
 - Some of us also visited the University of Melbourne and reconnected with our alumni, including Samangi Wadinambi Arachchi and Smitha Sheshadri.
-- 
+  
 ![-](/assets/images/4.jpg "-")
 
 
@@ -40,7 +40,7 @@ Several Synteraction Lab members attended MobileHCI and UbiComp/ISWC 2024 in Mel
 
 - Shengdong Zhao, Ian Oakley, Yun Huang, Haiming Liu, and Can Liu organized the "Heads-Up Computing" workshop (Learn more), where both academic and industry practitioners shared their views. Mark Billinghurst delivered a wonderful keynote on "Research Directions in Heads-Up Computing" (Keynote slides).
   - Nuwan Janaka also presented "Towards Proactive Intelligent Wearable Assistants" (Read more).
-  - 
+    
 ![-](/assets/images/workshop_headsup.jpg "-")
 
 - Nuwan Janaka attended the "Interpretable, Inclusive, and Immersive Interactions for Ubiquitous AI-infused Physical Systems" (i4u2024) workshop (Workshop details) and presented the paper "TOM: A Development Platform for Wearable Intelligent Assistants" (Read more).

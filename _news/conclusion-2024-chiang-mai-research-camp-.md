@@ -9,7 +9,7 @@ role: Lab Admin
 ---
 
 The end of the 2024 Chiang Mai Research Camp was marked by a celebration of innovation and collaboration. Over the course of several weeks, participants from diverse academic backgrounds came together to explore new frontiers in environmental science, technology, and cultural studies. The camp fostered a vibrant exchange of ideas, culminating in groundbreaking projects that promise to have a lasting impact. As attendees bid farewell, they left with not only valuable knowledge and experience but also a renewed commitment to their respective fields, inspired by the unique blend of tradition and modernity that Chiang Mai offers.
-![-](/assets/images/1.jpg "-")
-![-](/assets/images/2.jpg "-")
-![-](/assets/images/3.jpg "-")
-![-](/assets/images/4.jpg "-")
+![-](/assets/images/1cm.jpg "-")
+![-](/assets/images/2cm.jpg "-")
+![-](/assets/images/3cm.jpg "-")
+![-](/assets/images/4cm.jpg "-")

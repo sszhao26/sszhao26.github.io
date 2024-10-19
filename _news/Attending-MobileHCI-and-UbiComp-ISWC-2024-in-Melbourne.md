@@ -21,7 +21,7 @@ Several Synteraction Lab members attended MobileHCI and UbiComp/ISWC 2024 in Mel
 ![-](/assets/images/5.jpg "-")
 
 
-**Lab Visits**
+## Lab Visits
 
 - **Shengdong Zhao** and **Zirui Xiao (Robert)** visited Mark Billinghurst's Empathic Computing Lab [(Learn more)](https://empathiccomputing.org/) at the University of South Australia, Adelaide.
 
@@ -36,7 +36,7 @@ Several Synteraction Lab members attended MobileHCI and UbiComp/ISWC 2024 in Mel
 ![-](/assets/images/4.jpg "-")
 
 
-**At UbiComp/ISWC 2024**
+## At UbiComp/ISWC 2024
 
 - **Shengdong Zhao, Ian Oakley, Yun Huang, Haiming Liu,** and **Can Liu** organized the _"Heads-Up Computing"_ workshop [(Learn more)](https://sites.google.com/view/heads-up-computing-ubicomp), where both academic and industry practitioners shared their views. **Mark Billinghurst** delivered a wonderful keynote on _"Research Directions in Heads-Up Computing"_ [(Keynote slides)](https://www.slideshare.net/slideshow/research-directions-in-heads-up-computing/272197520).
   - **Nuwan Janaka** also presented _"Towards Proactive Intelligent Wearable Assistants"_ [(Read more)](https://dl.acm.org/doi/10.1145/3675094.3678989).

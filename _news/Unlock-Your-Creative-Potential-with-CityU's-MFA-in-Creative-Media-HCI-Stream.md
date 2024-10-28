@@ -26,4 +26,4 @@ This unique program, led by the esteemed Professor Shengdong Zhao, combines the 
 
 **Apply Now** Join CityU and embark on a journey where creativity meets technology. Apply today and start shaping the future of human-computer interaction!
 
-For more information, visit our [(program page)](https://www.cityu.edu.hk/pg/programme/p80).
+For more information, visit our [program page](https://www.cityu.edu.hk/pg/programme/p80).

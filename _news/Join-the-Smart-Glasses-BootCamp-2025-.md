@@ -7,7 +7,7 @@ date:  "2024-11-21"
 category: Bootcamp
 role: Lab Admin
 ---
-![-](https://fonts.gstatic.com/s/e/notoemoji/15.1/1f310/32.png) Join the Smart Glasses BootCamp 2025 – Dive into the Future of Human-AI Interaction! ![🌐](https://fonts.gstatic.com/s/e/notoemoji/15.1/1f310/32.png) 
+![🌐](https://fonts.gstatic.com/s/e/notoemoji/15.1/1f310/32.png) Join the Smart Glasses BootCamp 2025 – Dive into the Future of Human-AI Interaction! ![🌐](https://fonts.gstatic.com/s/e/notoemoji/15.1/1f310/32.png) 
 
 Are you ready to explore the next frontier of wearable technology? Imagine a world where AI-driven smart glasses are as essential to our lives as smartphones – where your glasses can guide you, assist you, and expand your view of reality. If this vision excites you, then mark your calendar for **January 6th - January 11th, 2025**, and get ready to be part of the third BootCamp of **Future Interaction for Smart Glasses** at the National University of Singapore!
 

@@ -14,7 +14,7 @@ Are you ready to explore the next frontier of wearable technology? Imagine a wor
 Hosted at the dynamic Innovation 4.0 facility, this **six-day BootCamp** is designed to empower students, researchers, and aspiring tech leaders from around the world to shape the future of human-AI interaction through cutting-edge technology.
 
 More Details: [https://sites.google.com/view/ssi-bootcamp-2025](https://sites.google.com/view/ssi-bootcamp-2025)  
-.
+<span style="color:white">.</span>
 
 # ![🚀](https://fonts.gstatic.com/s/e/notoemoji/15.1/1f680/32.png) Why Attend?
 

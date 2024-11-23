@@ -25,7 +25,7 @@ Here’s a glimpse of what awaits you at the Smart Glasses BootCamp:
 
 # ![🔥](https://fonts.gstatic.com/s/e/notoemoji/15.1/1f525/32.png) What’s In Store for You?
 
-## 1. Dynamic Schedule Packed with Innovation
+### 1. Dynamic Schedule Packed with Innovation
 
 -   **Day 1:** Kick-off with brainstorming sessions to spark creative ideas and set the stage for the week.
 -   **Days 2-5:** Dive into hands-on workshops, learn from seminars, and work alongside passionate participants in a 3-day hackathon to bring your visions to life.

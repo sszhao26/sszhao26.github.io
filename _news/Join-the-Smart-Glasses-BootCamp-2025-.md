@@ -20,8 +20,8 @@ More Details: [https://sites.google.com/view/ssi-bootcamp-2025](https://sites.go
 
 This is more than just a workshop. It’s an opportunity to become part of a growing community dedicated to **innovating smart glass interactions**. As tech giants like Apple and Meta release new AR/VR smart glasses, we invite you to join us in shaping a future where AI-enhanced glasses become everyday tools, blending our physical and digital experiences seamlessly.
 
-Here’s a glimpse of what awaits you at the Smart Glasses BootCamp:
-.   
+Here’s a glimpse of what awaits you at the Smart Glasses BootCamp:  
+.
 
 # ![🔥](https://fonts.gstatic.com/s/e/notoemoji/15.1/1f525/32.png) What’s In Store for You?
 
@@ -47,7 +47,7 @@ Here’s a glimpse of what awaits you at the Smart Glasses BootCamp:
 
 ### 4. Real-World Hackathon Experience
 
--   Collaborate with other forward-thinking students to create, iterate, and present innovative smart glasses solutions. This 3-day hackathon is a chance to put your ideas to the test and get valuable feedback from expert judges.
+-   Collaborate with other forward-thinking students to create, iterate, and present innovative smart glasses solutions. This 3-day hackathon is a chance to put your ideas to the test and get valuable feedback from expert judges.  
 .    
    
 # ![🧠](https://fonts.gstatic.com/s/e/notoemoji/15.1/1f9e0/32.png) Key Themes: Vision for Smart Glasses
@@ -72,7 +72,7 @@ Here’s a glimpse of what awaits you at the Smart Glasses BootCamp:
 # ![🏆](https://fonts.gstatic.com/s/e/notoemoji/15.1/1f3c6/32.png) Why Should You Register?
 
 Participating in the Smart Glasses BootCamp is a unique opportunity to be at the forefront of a rapidly advancing field. Not only will you gain valuable skills and insights, but you'll also have a chance to win exciting prizes for your hackathon project, supported by the Smart Systems Institute (SSI). Imagine adding a hackathon award to your portfolio – showcasing your work in wearable tech, AI, and augmented reality!  
-.
+
 
 Ready to redefine the future of smart glasses and human-AI interactions? [Sign up here](https://docs.google.com/forms/d/e/1FAIpQLSesWW0_mBvVspwevG_Vlg6JphyIY7-KibuRiKcP85JovBy2EA/viewform) before December 20th, 2024, to secure your place in this exclusive BootCamp.
 

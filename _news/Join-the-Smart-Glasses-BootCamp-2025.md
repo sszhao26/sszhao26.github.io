@@ -7,8 +7,7 @@ date:  "2024-11-21"
 category: Bootcamp
 role: Lab Admin
 ---
-
-[](/assets/images/smart-glasses.jpg "")
+![-](/assets/images/smart-glasses.jpg "-")
 
 ![🌐](https://fonts.gstatic.com/s/e/notoemoji/15.1/1f310/32.png) Join the Smart Glasses BootCamp 2025 – Dive into the Future of Human-AI Interaction! ![🌐](https://fonts.gstatic.com/s/e/notoemoji/15.1/1f310/32.png) 
 

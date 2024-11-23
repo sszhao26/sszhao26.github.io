@@ -32,7 +32,7 @@ Here’s a glimpse of what awaits you at the Smart Glasses BootCamp:
 -   **Day 6:** Wrap up with project presentations, a celebratory buffet dinner, and a chance to network with industry leaders!
     
 
-## 2. Expert-Led Sessions by Leading Innovators
+### 2. Expert-Led Sessions by Leading Innovators
 
 -   Learn directly from experts in AI, wearable technology, and human-computer interaction. Our lineup includes top professors, researchers, and industry leaders who are driving innovation in this field:
 	- **David Hsu**, Professor, National University of Singapore
@@ -42,21 +42,21 @@ Here’s a glimpse of what awaits you at the Smart Glasses BootCamp:
 	- **Koh, Chun Keat**, Head of Engineering, Smart Systems Institute, NUS
 	- And more ….
 
-## 3. Gain Skills for the Future of Wearables
+### 3. Gain Skills for the Future of Wearables
 -   Deepen your knowledge of heads-up computing, human-centered AI assistance, and the latest design trends in smart glasses. Learn key concepts in mobile and wearable computing and get hands-on experience with the APIs and research tools used by professionals.    
 
-## 4. Real-World Hackathon Experience
+### 4. Real-World Hackathon Experience
 
 -   Collaborate with other forward-thinking students to create, iterate, and present innovative smart glasses solutions. This 3-day hackathon is a chance to put your ideas to the test and get valuable feedback from expert judges.
     
    
 # ![🧠](https://fonts.gstatic.com/s/e/notoemoji/15.1/1f9e0/32.png) Key Themes: Vision for Smart Glasses
 
-## The “Other Me”: Human-Centered AI Assistance
+### The “Other Me”: Human-Centered AI Assistance
 
 -   Imagine an AI assistant that isn’t just a tool but an extension of your own mind, ready to help you accomplish daily tasks, solve complex problems, and even coordinate with other AIs for larger projects. This vision of AI-powered smart glasses promises to transform our day-to-day lives by enabling highly personalized and proactive support.
 
-## Heads-Up Computing
+### Heads-Up Computing
 
 -   Experience the future of computing that works with you – not by replacing your environment with virtual spaces but by enhancing it. This concept of heads-up computing uses augmented reality to bridge the gap between digital and physical worlds, offering timely information without disrupting your natural movements.
     

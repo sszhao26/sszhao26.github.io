@@ -2,7 +2,7 @@
 layout: new
 title: "Big News! Best Paper Award at ISS 2024"
 description: ""
-image: /assets/images/Best-Paper-Award-at-ISS-2024.jpg
+image: /assets/images/best-paper-iss-2024.png
 date:  "2024-11-14"
 category: Activities
 role: Lab Admin

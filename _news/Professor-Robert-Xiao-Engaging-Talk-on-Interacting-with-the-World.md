@@ -1,12 +1,12 @@
 ---
 layout: new
-title: "Professor Huang Yun's Talk on Human-AI Collaboration"
+title: "Professor Robert Xiao's Engaging Talk on Interacting with the World"
 description: " "
-image: /assets/images/Prof Huang Yun.jpg
+image: /assets/images/Professor-Robert-Xiao.jpg
 date:  "2024-11-26"
 category: Activities
 role: Lab Admin
 ---
-We were honored to host Professor Huang Yun from the University of Illinois on November 21st. Professor Huang delivered an insightful talk on human-AI collaboration, which was very well received by all attendees.
+On November 26th, we had the pleasure of hosting Professor Robert Xiao from the University of British Columbia. He delivered an exciting talk on interacting with the world, which was very well received by our community.
 
-![-](/assets/images/Prof Huang Yun visit.jpg "-")
+![-](/assets/images/Professor-Robert-Xiao-visit.jpg "-")

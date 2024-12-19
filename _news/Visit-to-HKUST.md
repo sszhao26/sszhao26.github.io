@@ -3,7 +3,7 @@ layout: new
 title: "Visit to HKUST and Gathering with Students"
 description: " "
 image: /assets/images/Visit-to-HKUST.jpg
-date:  "2024-12-19
+date:  "2024-12-19"
 category: Activities
 role: Lab Admin
 ---

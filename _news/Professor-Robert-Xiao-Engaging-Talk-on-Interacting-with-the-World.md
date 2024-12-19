@@ -3,7 +3,7 @@ layout: new
 title: "Professor Huang Yun's Talk on Human-AI Collaboration"
 description: " "
 image: /assets/images/Prof Huang Yun.jpg
-date:  "2024-11-21"
+date:  "2024-11-26"
 category: Activities
 role: Lab Admin
 ---

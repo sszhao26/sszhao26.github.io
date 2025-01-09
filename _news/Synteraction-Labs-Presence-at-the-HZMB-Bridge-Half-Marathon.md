@@ -1,6 +1,6 @@
 ---
 layout: new
-title: "Synteraction Lab's Presence at the HZMB Bridge Half Marathon"
+title: "Synteraction Labs Presence at the HZMB Bridge Half Marathon"
 description: " "
 image: /assets/images/HZMB-Bridge-Half-Marathon.jpg
 date:  "2025-01-06"

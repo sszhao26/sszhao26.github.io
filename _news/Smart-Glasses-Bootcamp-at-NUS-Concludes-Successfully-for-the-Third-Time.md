@@ -4,7 +4,7 @@ title: "Smart Glasses Bootcamp at NUS Concludes Successfully for the Third Time!
 description: " "
 image: /assets/images/smart-glasses-bootcamp-featured.jpg
 date:  "2024-01-16"
-category: Activities
+category: Bootcamp
 role: Lab Admin
 ---
 The third boot camp of Future Interaction for Smart Glasses, a pioneering initiative aimed at advancing wearable technology, concluded its third edition at the National University of Singapore (NUS). This event brought together bright minds, innovative ideas, and a shared vision for the future of wearable assistants.
@@ -21,4 +21,4 @@ We extend our heartfelt gratitude to the Smart Systems Institute (SSI) at NUS fo
 
 As we celebrate this milestone, we look forward to future editions and continuing to inspire innovation in wearable technology. Together, we’re shaping the future, one innovation at a time!
 
-![-](/assets/images/smart-glassess-bootcamp-cert.jpg "-")
+![-](/assets/images/smart-glasses-bootcamp-cert.jpg "-")

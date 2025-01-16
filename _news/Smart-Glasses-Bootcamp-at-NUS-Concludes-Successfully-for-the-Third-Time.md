@@ -3,7 +3,7 @@ layout: new
 title: "Smart Glasses Bootcamp at NUS Concludes Successfully for the Third Time!"
 description: " "
 image: /assets/images/smart-glasses-bootcamp-featured.jpg
-date:  "2024-01-16"
+date:  "2025-01-16"
 category: Bootcamp
 role: Lab Admin
 ---

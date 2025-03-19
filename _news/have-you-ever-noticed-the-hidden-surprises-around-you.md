@@ -24,4 +24,5 @@ Unlike the free exploration of childhood, the demands of daily life reduce our m
 DOI: [https://doi.org/10.1145/3706598.3713953](https://doi.org/10.1145/3706598.3713953)
 
 Access the preprint here: [https://arxiv.org/abs/2501.16240](https://arxiv.org/abs/2501.16240)
+
 For more details, visit our demo page: [https://code.runzecai.com/aiget-demo/](https://code.runzecai.com/aiget-demo/)

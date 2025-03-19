@@ -7,7 +7,7 @@ date:  "2025-03-19"
 category: Research
 role: Lab Admin
 ---
-:mag: Have you ever noticed the hidden surprises around you? :camera:
+![🔍](https://fonts.gstatic.com/s/e/notoemoji/16.0/1f50d/32.png) Have you ever noticed the hidden surprises around you? ![📸](https://fonts.gstatic.com/s/e/notoemoji/16.0/1f4f8/32.png)
 
 Check out our latest research, “AiGet: Transforming Everyday Moments into Hidden Knowledge Discovery with AI Assistance on Smart Glasses,” which has been accepted and will be presented at the CHI ’25 conference.
 

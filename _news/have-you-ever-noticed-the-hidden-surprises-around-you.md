@@ -1,12 +1,14 @@
 ---
 layout: new
-title: "Have you ever noticed the hidden surprises around you?"
-description: "Have you ever noticed the hidden surprises around you?"
+title: "One Paper, AiGet, is Accepted at CHI25"
+description: "One Paper, AiGet, is Accepted at CHI25"
 image: /assets/images/have-you-ever-noticed-the-hidden-surprises-around-you.png
 date:  "2025-03-19"
 category: Research
 role: Lab Admin
 ---
+:mag: Have you ever noticed the hidden surprises around you? :camera:
+
 Check out our latest research, “AiGet: Transforming Everyday Moments into Hidden Knowledge Discovery with AI Assistance on Smart Glasses,” which has been accepted and will be presented at the CHI ’25 conference.
 
 AiGet transforms AI into an "environment detective" by leveraging proactive perception with smart glasses:

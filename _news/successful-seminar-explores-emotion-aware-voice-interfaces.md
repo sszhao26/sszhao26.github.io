@@ -4,7 +4,7 @@ title: "Successful Seminar Explores Emotion-Aware Voice Interfaces"
 description: " "
 image: /assets/images/successful-seminar-explores-emotion-aware-voice-interfaces.jpg
 date:  "2025-05-08"
-category: Activities
+category: Seminar
 role: Lab Admin
 ---
 On May 8th, **Dr. Yong Ma** from the University of Bergen delivered a seminar titled **"Designing Emotion-Aware Voice Interfaces: Challenges, Insights, and Future Directions"**.

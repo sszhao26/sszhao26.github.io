@@ -44,6 +44,26 @@ list:
     authors: Minh Duc Vu, Han Wang, Zhuang Li, Jieshan Chen, Shengdong Zhao, Zhenchang Xing, Chunyang Chen
     keywords: 
     pdf: /assets/files/Vu et al. - 2024 - GPTVoiceTasker LLM-Powered Virtual Assistant for Smartphone.pdf
+    
+    heading: "SelfIE: Self-Initiated Explorable Instructions Towards Enhanced User Experience"
+    authors: Hyeongcheol Kim, Katherine Fennedy, Georgia Zhang, Can Liu, Shengdong Zhao
+    keywords: Procedural instruction design, Non-linear access, Multi-modal interaction, Toy assembly task, Wizard-Of-Oz design exploration, Working Prototypes
+    pdf: /assets/files/Kim, H et al. - 2024 - SelfIE Self-Initiated Explorable Instructions Towards Enhanced User Experience.pdf
+        
+    heading: "Demonstrating PilotAR: A Tool to Assist Wizard-of-Oz Pilot Studies with OHMD"
+    authors: Nuwan Janaka, Runze Cai, Shengdong Zhao, David Hsu
+    keywords: toolkit, tool, pilot study, heads-up computing, augmented reality, OST-HMD, smart glasses, evaluation, interaction
+    pdf: /assets/files/Janaka, N et al 2024 - Demonstrating PilotAR A Tool to Assist Wizard-of-Oz Pilot Studies with OHMD.pdf
+
+    heading: "TOM: A Development Platform For Wearable Intelligent Assistants"
+    authors: Nuwan Janaka, Shengdong Zhao, David Hsu, Sherisse Tan Jing Wen, Chun-Keat Koh
+    keywords: context-aware system, wearable, AI assistance, smart glasses, HMD, interaction
+    pdf: /assets/files/Janaka, N et al 2024 - TOM A Development Platform For Wearable Intelligent Assistants.pdf
+
+    heading: "Collective Creation of Intimacy: Exploring the Cosplay Commission Practice within the Otome Game Community in China"
+    authors: Yihao Zhou, Haowei Xu, Lili Zhang, Shengdong Zhao
+    keywords: Video games, Intimacy
+    pdf: /assets/files/Zhou, Y et al - 2024 - Collective Creation of Intimacy Exploring the Cosplay Commission Practice within the Otome Game Community in China.pdf
   
   - title:  Communications of the ACM 2023
     heading: "Heads-Up Computing: Moving Beyond the Device-Centered Paradigm"

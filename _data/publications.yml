@@ -1,9 +1,68 @@
 list:
-  - title:  MobileHCI LBW 2024
-    heading: "What's this? Understanding User Interaction Behaviour with Multimodal Input Information Retrieval System"
-    authors: Silang Wang, Hyeongcheol Kim, Nuwan Janaka, Kun Yue, Hoang-Long Nguyen, Shengdong Zhao, Haiming Liu, Khanh-Duy Le
-    keywords: Information Retrieval, Multimodal Interaction, User Search Behaviour, Heads-up Computing
-    pdf: /assets/files/Wang S, et al - 2024 - Understanding User Interaction Behaviour with.pdf
+  - title:  IEEE 2025
+    heading: "SummonBrush: Enhancing Touch Interaction on Large XR User Interfaces by Augmenting Users' Hands with Virtual Brushes"
+    authors: Yang Tian, Zhao Su, Tianren Luo, Teng Han, Shengdong Zhao, Youpeng Zhang, Yixin Wang, Boyu Gao, Dangxiao Wang
+    keywords:
+    pdf:
+
+  - title:  CHI 2025
+    heading: "ViFeed: Promoting Slow Eating and Food Awareness through Strategic Video Manipulation during Screen-Based Dining"
+    authors: Yang Chen, Felicia Fang-Yi Tan, Zhuoyu Wang, Xing Liu, Jiayi Zhang, Yun Huang, Shengdong Zhao, Ching Chiuan Yen
+    keywords: Mindful eating; Eating intervention; Behavior Change; Empirical study.
+    pdf: /assets/files/Chen, Y et al 2025 - ViFeed Promoting Slow Eating and Food Awareness through Strategic Video Manipulation during Screen-Based Dining.pdf
+
+  - title:  
+    heading: "AiGet: Transforming Everyday Moments into Hidden Knowledge Discovery with AI Assistance on Smart Glasses"
+    authors: Runze Cai, Nuwan Janaka, Hyeongcheol Kim, Yang Chen, Shengdong Zhao, Yun Huang, David Hsu
+    keywords: HMD, smart glasses, AI, large language model, multimodal information, incidental learning, informal learning, wearable-AI assistance, human-ai interaction, knowledge discovery
+    pdf: /assets/files/Cai, R et al 2025 - AiGet Transforming Everyday Moments into Hidden Knowledge Discovery with AI Assistance on Smart Glasses.pdf
+
+  - title:  CHI EA 2025
+    heading: "Bridging Gaps in HCI: Advancing Education, Research, and Careers in Asia"
+    authors: Dilrukshi Gamage, Shiwei Cheng, Preeti Mudliar, Zhicong Lu, Shengdong Zhao, Nova Ahmed, Xiaojuan Ma, Uichin Lee, Ding Wang
+    keywords: Asia, HCI, Curricula, HCI Education, HCI Teaching
+    pdf: /assets/files/Gamage, D et al 2025 - Bridging Gaps in HCI Advancing Education, Research, and Careers in Asia.pdf
+
+  - title:  CHIIR 2025
+    heading: "Designing Interactive Multimodal Information Retrieval and Access for Heads Up Computing (DIMIRA-HUC)"
+    authors: Haiming Liu, Shengdong Zhao, Silang Wang, Preben Hansen, Ian Oakley, Khanh-Duy Le
+    keywords: Multimodal Interaction Design, Conversational Search, Interactive Information Retrieval, Seeking and Access, User Search Behavior, Heads-up Computing, Generative AI
+    pdf: /assets/files/Liu, H et al 2025 - Designing Interactive Multimodal Information Retrieval and Access for Heads Up Computing (DIMIRA-HUC).pdf
+
+  - title:  CoRR 2025
+    heading: "AiGet: Transforming Everyday Moments into Hidden Knowledge Discovery with AI Assistance on Smart Glasses"
+    authors: Runze Cai, Nuwan Janaka, Hyeongcheol Kim, Yang Chen, Shengdong Zhao, Yun Huang, David Hsu
+    keywords: HMD, smart glasses, AI, large language model, multimodal information, incidental learning, informal learning, wearable-AI assistance, human-ai interaction, knowledge discovery
+    pdf: /assets/files/Cai, R et al 2025 - AiGet Transforming Everyday Moments into Hidden Knowledge Discovery with AI Assistance on Smart Glasses.pdf
+    
+  - title:  
+    heading: "SimulataR: Rapid Assisted Reality Prototyping using Design-Blended Videos"
+    authors: Ashwin Ram, Yue Gu, Bowen Wang, Sneha Jaikumar, Youqi Wu, Benjamin Tan Kuan Wei, Qingyang Xu, Haiming Liu, Shengdong Zhao
+    keywords: 
+    pdf: /assets/files/Ram, A et al 2025 - SimulataR Rapid Assisted Reality Prototyping using Design-Blended Videos.pdf
+
+  - title:  ACM 2024
+    heading: "PilotAR: Streamlining Pilot Studies with OHMDs from Concept to Insight"
+    authors: Nuwan Janaka, Runze Cai, Ashwin Ram, Lin Zhu, Shengdong Zhao, Kai Qi Yong
+    keywords: toolkit, tool, pilot, heads-up computing, augmented reality, OST-HMD, smart glasses, evaluation, interaction
+    pdf: /assets/files/Janaka, N et al 2024 - PilotAR Streamlining Pilot Studies with OHMDs from Concept to Insight.pdf
+    
+  - title:  IEEE 2024
+    heading: "GestureGPT: Toward Zero-Shot Free-Form Hand Gesture Understanding with Large Language Model Agents"
+    authors: Xin Zeng, Xiaoyu Wang, Tengxiang Zhang, Chun Yu, Shengdong Zhao, Yiqiang Chen
+    keywords: Free-Form Gesture, Zero-Shot, Gesture Recognition, Interaction Context
+    pdf: /assets/files/Zeng, X et al 2024 - GestureGPT Toward Zero-Shot Free-Form Hand Gesture Understanding with Large Language Model Agents.pdf
+    
+  - title:  IEEE 2024
+    heading: "Kine-Appendage: Enhancing Freehand VR Interaction Through Transformations of Virtual Appendages"
+    authors: Yang Tian, Hualong Bai, Shengdong Zhao, Chi-Wing Fu, Chun Yu, Haozhao Qin, Qiong Wang, Pheng-Ann Heng
+    keywords: Visual kinesthetic feedback, virtual appendage, visual transformation, isomorphic typing
+    pdf: 
+    
+  - title:  CHI EA 2024
+    heading: "Demonstrating PANDALens: Enhancing Daily Activity Documentation with AI-assisted In-Context Writing on OHMD"
+    authors: Nuwan Janaka, Runze Cai, Shengdong Zhao, David Hsu
+    keywords:
 
   - title:  CHI 2024
     heading: "Navigating Real-World Challenges: A Quadruped Robot Guiding System for Visually Impaired People in Diverse Environments"
@@ -11,54 +70,72 @@ list:
     keywords: visual impairment, orientation and mobility, assistive technology, navigation, robot guide dog
     pdf: /assets/files/Cai, S et al - 2024 - Navigating Real-World Challenges A Quadruped Robot Guiding System for Visually Impaired People in Diverse Environments.pdf
 
-  - title:  CHI 2024
+  - title:
     heading: "Heads-Up Multitasker: Simulating Attention Switching On Optical Head-Mounted Displays"
     authors: Yunpeng Bai, Aleksi Ikkala, Antti Oulasvirta, Shengdong Zhao, Lucia J. Wang, Pengzhi Yang, Peisen Xu
     keywords: multitasking, heads-up computing, computational rationality, deep reinforcement learning, bounded optimal control
     pdf: /assets/files/Bai, Y et al. - 2024 - Heads-Up Multitasker Simulating Atention Switching On.pdf
 
-  - title:  CHI 2024
+  - title:
     heading: "AudioXtend: Assisted Reality Visual Accompaniments for Audiobook Storytelling During Everyday Routine Tasks"
     authors: Felicia Fang-Yi Tan, Peisen Xu, Ashwin Ram, Wei Zhen Suen, Shengdong Zhao, Yun Huang, Christophe Hurter
-    keywords: 
+    keywords: Smart-glasses, Optical See-Through Head-Mounted Displays, Assisted Reality, Incidental learning, Recall Enhancement, Visual Storytelling, Audiobook Augmentation, Heads-Up Computing
+    pdf: /assets/files/Tan, F et al 2024 - AudioXtend Assisted Reality Visual Accompaniments for Audiobook Storytelling During Everyday Routine Tasks.pdf
 
-  - title:  CHI EA 2024
-    heading: "Demonstrating PANDALens: Enhancing Daily Activity Documentation with AI-assisted In-Context Writing on OHMD"
-    authors: Nuwan Janaka, Runze Cai, Shengdong Zhao, David Hsu
-    keywords:
-
-  - title:  CHI 2024
+  - title:
     heading: "Facilitating Virtual Reality Integration in Medical Education: A Case Study of Acceptability and Learning Impact in Childbirth Delivery Training"
     authors: Chang Liu, Felicia Fang-Yi Tan, Shengdong Zhao, Abhiram Kanneganti, Gosavi Arundhati Tushar, Eng Tat Khoo
     keywords: Medical Education, Virtual Reality, User Experience Design, Obstetrics & Gynaecology
     pdf: /assets/files/Liu, C et al. - 2024 - Facilitating Virtual Reality Integration in Medical Education A Case Study of Acceptability and Learning Impact in Childbirth Delivery Training.pdf
   
-  - title:  CHI 2024
+  - title:
     heading: "PANDALens: Towards AI-Assisted In-Context Writing on OHMD During Travels"
     authors: Runze Cai, Nuwan Janaka, Yang Chen, Lucia J. Wang, Shengdong Zhao, Can Liu
     keywords: HMD, smart glasses, AI, large language model, multimodal information, Human-AI collaborative writing, in-context writing, travel blog
     pdf: /assets/files/Cai, R et al. - 2024 - PANDALens Towards AI-Assisted In-Context Writing on OHMD.pdf
+
+  - title:  MobileHCI (Companion) 2024
+    heading: "What's this? Understanding User Interaction Behaviour with Multimodal Input Information Retrieval System"
+    authors: Silang Wang, Hyeongcheol Kim, Nuwan Janaka, Kun Yue, Hoang-Long Nguyen, Shengdong Zhao, Haiming Liu, Khanh-Duy Le
+    keywords: Information Retrieval, Multimodal Interaction, User Search Behaviour, Heads-up Computing
+    pdf: /assets/files/Wang S, et al - 2024 - Understanding User Interaction Behaviour with.pdf
+
+  - title:
+    heading: "Demonstrating TOM: A Development Platform for Wearable Intelligent Assistants in Daily Activities"
+    authors: Nuwan Janaka, Shengdong Zhao, David Hsu, Sherisse Tan Jing Wen, Chun-Keat Koh
+    keywords: Information Retrieval, Multimodal Interaction, User Search Behaviour, Heads-up Computing
+    pdf: 
+
+  - title:  UIST 2024
+    heading: "GPTVoiceTasker: Advancing Multi-step Mobile Task Efficiency Through Dynamic Interface Exploration and Learning"
+    authors: Minh Duc Vu, Han Wang, Jieshan Chen, Zhuang Li, Shengdong Zhao, Zhenchang Xing, Chunyang Chen
+    keywords: HMD, smart glasses, AI, large language model, multimodal information, Human-AI collaborative writing, in-context writing, travel blog
+    pdf: /assets/files/Vu, M et al 2024 - GPTVoiceTasker Advancing Multi-step Mobile Task Efficiency Through Dynamic Interface Exploration and Learning.pdf
   
   - title:  CoRR 2024
     heading: "GPTVoiceTasker: LLM-Powered Virtual Assistant for Smartphone"
     authors: Minh Duc Vu, Han Wang, Zhuang Li, Jieshan Chen, Shengdong Zhao, Zhenchang Xing, Chunyang Chen
     keywords: 
     pdf: /assets/files/Vu et al. - 2024 - GPTVoiceTasker LLM-Powered Virtual Assistant for Smartphone.pdf
+    
   - title:      
     heading: "SelfIE: Self-Initiated Explorable Instructions Towards Enhanced User Experience"
     authors: Hyeongcheol Kim, Katherine Fennedy, Georgia Zhang, Can Liu, Shengdong Zhao
     keywords: Procedural instruction design, Non-linear access, Multi-modal interaction, Toy assembly task, Wizard-Of-Oz design exploration, Working Prototypes
     pdf: /assets/files/Kim, H et al. - 2024 - SelfIE Self-Initiated Explorable Instructions Towards Enhanced User Experience.pdf
+    
   - title:          
     heading: "Demonstrating PilotAR: A Tool to Assist Wizard-of-Oz Pilot Studies with OHMD"
     authors: Nuwan Janaka, Runze Cai, Shengdong Zhao, David Hsu
     keywords: toolkit, tool, pilot study, heads-up computing, augmented reality, OST-HMD, smart glasses, evaluation, interaction
     pdf: /assets/files/Janaka, N et al 2024 - Demonstrating PilotAR A Tool to Assist Wizard-of-Oz Pilot Studies with OHMD.pdf
+    
   - title:  
     heading: "TOM: A Development Platform For Wearable Intelligent Assistants"
     authors: Nuwan Janaka, Shengdong Zhao, David Hsu, Sherisse Tan Jing Wen, Chun-Keat Koh
     keywords: context-aware system, wearable, AI assistance, smart glasses, HMD, interaction
     pdf: /assets/files/Janaka, N et al 2024 - TOM A Development Platform For Wearable Intelligent Assistants.pdf
+    
   - title:  
     heading: "Collective Creation of Intimacy: Exploring the Cosplay Commission Practice within the Otome Game Community in China"
     authors: Yihao Zhou, Haowei Xu, Lili Zhang, Shengdong Zhao

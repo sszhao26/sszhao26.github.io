@@ -53,11 +53,17 @@ list:
     keywords: Free-Form Gesture, Zero-Shot, Gesture Recognition, Interaction Context
     pdf: /assets/files/Zeng, X et al 2024 - GestureGPT Toward Zero-Shot Free-Form Hand Gesture Understanding with Large Language Model Agents.pdf
     
-  - title:  IEEE 2024
+  - title:  
     heading: "Kine-Appendage: Enhancing Freehand VR Interaction Through Transformations of Virtual Appendages"
     authors: Yang Tian, Hualong Bai, Shengdong Zhao, Chi-Wing Fu, Chun Yu, Haozhao Qin, Qiong Wang, Pheng-Ann Heng
     keywords: Visual kinesthetic feedback, virtual appendage, visual transformation, isomorphic typing
     pdf: 
+
+  - title:  DIS 2024
+    heading: "GlassMail: Towards Personalised Wearable Assistant for On-the-Go Email Creation on Smart Glasses"
+    authors: Chen Zhou, Zihan Yan, Ashwin Ram, Yue Gu, Yan Xiang, Can Liu, Yun Huang, Wei Tsang Ooi, Shengdong Zhao
+    keywords: Optical See-Through Head-Mounted Displays, Smart Glasses, Large Language Model, Wearable LLM-based assistant, Complex Information Processing, Voice Assistant, Mobile Email Creation, Heads-Up Computing
+    pdf: /assets/files/Zhou, C et al 2024 - GlassMail Towards Personalised Wearable Assistant for On-the-Go Email Creation on Smart Glasses.pdf
     
   - title:  CHI EA 2024
     heading: "Demonstrating PANDALens: Enhancing Daily Activity Documentation with AI-assisted In-Context Writing on OHMD"

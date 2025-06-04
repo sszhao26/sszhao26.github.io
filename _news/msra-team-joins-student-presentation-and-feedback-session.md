@@ -16,10 +16,16 @@ The MSRA attendees included:
 - Jinglu Wang, Senior Researcher
 - Yun Wang, Senior Researcher
 
+![-](/assets/images/WeChat Image_20250604105008.jpg "-")
+
 During the session, several students presented their research ideas and ongoing projects. The MSRA visitors offered feedback, contributing their perspectives and engaging with the presenters.
 
 The session served as a valuable platform for interaction between students and researchers, encouraging thoughtful discussion and reflection. We appreciate the participation of the MSRA team and the time they dedicated to engaging with the student work.
   
-![-](/assets/images/WeChat Image_20250604105008.jpg "-")
+![-](/assets/images/Image_20250604121741.jpg "-")
+
+![-](/assets/images/Image_20250604121750.jpg "-")
+
+![-](/assets/images/Image_20250604121757.jpg "-")
 
 

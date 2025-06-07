@@ -4,7 +4,7 @@ title: "MSRA Team Joins Student Presentation and Feedback Session"
 description: " "
 image: /assets/images/WeChat Image_20250604105015.jpg
 date:  "2025-06-03"
-category: Activities
+category: KLIC
 role: Lab Admin
 ---
 A group from Microsoft Research Asia (MSRA) recently joined a session featuring student presentations and feedback exchange. The event provided an opportunity for students to share their work and receive comments from experienced professionals in the field.

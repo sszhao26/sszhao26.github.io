@@ -9,7 +9,7 @@ role: Lab Admin
 ---
 On Friday, June 6, 2025, members of the Kowloon Interaction Center (KLIC) held a session focused on the topic of “Best Practice in Supervision.” The session was based on a workshop recently attended by one of the members, organized by Imperial College London.
 
-![-](/assets/images/Image_20250607164443 "-")
+![-](/assets/images/Image_20250607164443.jpg "-")
 
 The discussion centered around approaches to supervising students, with an emphasis on reflecting on current practices and hearing diverse perspectives. In preparation for the session, participants were invited to share their thoughts anonymously through a survey, helping to create a more open and comfortable environment for discussion.
 

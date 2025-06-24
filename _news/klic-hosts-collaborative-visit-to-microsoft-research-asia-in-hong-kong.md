@@ -4,7 +4,7 @@ title: "KLIC Hosts Collaborative Visit to Microsoft Research Asia in Hong Kong"
 description: " "
 image: /assets/images/Image_20250624201033.jpg
 date:  "2025-06-24"
-category: Lecture
+category: Reseach Session
 role: Lab Admin
 ---
 On June 24, 2025, KLIC (Kowloon Interaction Center) organized a collaborative visit to Microsoft Research Asia (MSRA) in Hong Kong, bringing together researchers, faculty, and students from City University of Hong Kong and MSRA for an afternoon of academic exchange and networking.

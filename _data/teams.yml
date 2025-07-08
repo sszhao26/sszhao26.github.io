@@ -55,12 +55,6 @@ current_members:
     email: linluoying233@gmail.com
     website: luoying0.com
     link: https://luoying0.com/
-  - img: /assets/images/people/Yuxuan-Li-5x4.JPG
-    name:  Yuxuan Li
-    study: Visiting Ph.D Student
-    email:
-    website: sites.google.com/view/lovenicoco
-    link: https://sites.google.com/view/lovenicoco
   - img: /assets/images/Zirui-Xiao.jpeg
     name:  Zirui Xiao
     study: MPhil Student
@@ -274,6 +268,12 @@ graduated_master_students:
 
 
 alumni:
+  - name:  Adam Nowak
+    intern: Visiting Ph.D Student
+    email: nowak.m.adam@gmail.com
+  - name:  Yuxuan Li
+    intern: Visiting Ph.D Student
+    email: lyx524042405@gmail.com
   - name:  MAO Yaxuan Stella
     intern: Part-time Research Assistant '23
     email: tellamaoyx@gmail.com

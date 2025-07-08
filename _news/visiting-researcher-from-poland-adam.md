@@ -15,7 +15,7 @@ During his visit, Adam collaborated with members of the lab, gaining hands-on ex
 
 ![-](/assets/images/Adam-with-KLIC-members.jpg "-")
 
->“I’m glad I had the opportunity to visit your university, see a different culture and style of work,” Adam shared. “Working with Professor Zhao’s team gave me valuable insights and experience. I hope to maintain remote collaboration with the lab!”
+>I’m glad I had the opportunity to visit your university, see a different culture and style of work,” Adam shared. “Working with Professor Zhao’s team gave me valuable insights and experience. I hope to maintain remote collaboration with the lab!
 
 ![-](/assets/images/Adam-visit.jpg "-")
 

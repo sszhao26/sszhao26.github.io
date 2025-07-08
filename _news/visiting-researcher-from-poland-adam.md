@@ -1,9 +1,9 @@
 ---
 layout: new
-title: "Visiting Researcher from Poland, Adam"
+title: "Visiting Researcher from Poland"
 description: " "
 image: /assets/images/Adam-Nowak-feature.jpeg
-date:  "2025-07-06
+date:  "2025-07-06"
 category: Visiting Researcher
 role: Lab Admin
 ---

@@ -81,21 +81,6 @@ current_members:
     link: https://www.linkedin.com/in/hsin-yi-wang-%E7%8E%8B%E6%96%B0%E7%BF%8C%EF%BC%89-548612284/
   
 interns_and_visiting_researchers:  
-  - img: /assets/images/wang-silang.PNG
-    name: Wang Silang
-    interns: Intern '22
-    email: wangsilangCHANGE@gmail.com
-    website: wangsilangchange.wixsite.com/sl-wang
-    link: https://wangsilangchange.wixsite.com/sl-wang
-  - img: /assets/images/people/Shuraj.jpg
-    name: Shenoy Suraj Bantwal 
-    interns: Intern '23
-  - img: /assets/images/people/Yu-Rou-Lin.jpg
-    name: Yu-Rou Lin 
-    interns: Intern '23
-  - img: /assets/images/people/Danae-Lee-1024x819.jpg
-    name: Danae Lee
-    interns: Intern '23
   - img: /assets/images/people/wangpeilin-1024x819.jpg
     name: WANG Peilin
     interns: Intern '24
@@ -276,6 +261,12 @@ alumni:
   - name:  MAO Yaxuan Stella
     intern: Part-time Research Assistant '23
     email: tellamaoyx@gmail.com
+  - name:  Shenoy Suraj Bantwal 
+    intern: Intern '23
+  - name:  Yu-Rou Lin 
+    intern: Intern '23
+  - name:  Danae Lee
+    intern: Intern '23
   - name: Zhang Yingdong
     intern: Intern '23
   - name: Darice Wong 
@@ -322,7 +313,9 @@ alumni:
     intern: Intern '23
     email: wuyoki1203@gmail.com  
   - name: Lucia Wang
-    intern: Intern '23 
+    intern: Intern '23
+  - name: Wang Silang
+    intern: Intern '22
   - name: Katherine Fennedy
     intern: PostDoc '22
     email: katherine.fennedy@gmail.com   

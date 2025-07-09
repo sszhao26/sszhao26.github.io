@@ -17,6 +17,6 @@ During her stay, Luoying presented a seminar on her research, which generated en
 
 In addition to her academic activities, Luoying explored the cities of Warsaw, Łódź, Gdańsk, and Kraków, gaining first-hand experience of Polish culture and history. This visit not only broadened her academic horizons but also helped to strengthen the connections between our lab and international partners.
 
-![-](/assets/images/![-](/assets/images/luoying-visit-04.png "-")
+![-](/assets/images/luoying-visit-04.png "-")
 
 This research visit was sponsored by the PROM project, a short-term academic exchange program financed by European Union funds under the NAWA project (project number FERS.01.05-IP.08-0218/23). We would also like to extend our sincere thanks to Prof. Andrzej Romanowski for his kind invitation and support, which made this valuable experience possible.

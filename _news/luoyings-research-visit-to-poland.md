@@ -7,7 +7,7 @@ date:  "2025-07-09"
 category: Visiting Researcher
 role: Lab Admin
 ---
-We are pleased to share that our PhD student, Luoying, recently completed a one-month research visit to Lodz University of Technology in Poland.
+We are pleased to share that our PhD student, **Luoying**, recently completed a one-month research visit to **Lodz University of Technology in Poland**.
 
 ![-](/assets/images/luoying-visit-01.JPG "-")
 
@@ -19,4 +19,4 @@ In addition to her academic activities, Luoying explored the cities of Warsaw, Å
 
 ![-](/assets/images/luoying-visit-04.png "-")
 
-This research visit was sponsored by the PROM project, a short-term academic exchange program financed by European Union funds under the NAWA project (project number FERS.01.05-IP.08-0218/23). We would also like to extend our sincere thanks to Prof. Andrzej Romanowski for his kind invitation and support, which made this valuable experience possible.
+This research visit was sponsored by the **PROM project**, a short-term academic exchange program financed by European Union funds under the **NAWA project (project number FERS.01.05-IP.08-0218/23)**. We would also like to extend our sincere thanks to **Prof. Andrzej Romanowski** for his kind invitation and support, which made this valuable experience possible.

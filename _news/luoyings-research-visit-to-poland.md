@@ -9,7 +9,7 @@ role: Lab Admin
 ---
 We are pleased to share that our PhD student, Luoying, recently completed a one-month research visit to Lodz University of Technology in Poland.
 
-![-](/assets/images/luoying-visit-01.jpg "-")
+![-](/assets/images/luoying-visit-01.JPG "-")
 
 During her stay, Luoying presented a seminar on her research, which generated engaging discussions and valuable feedback from faculty members and students at the Institute of Applied Computer Science. She also took the opportunity to communicate closely with researchers there, exchanging ideas and exploring possibilities for future collaboration.
 

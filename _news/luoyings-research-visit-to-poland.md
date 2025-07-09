@@ -1,6 +1,6 @@
 ---
 layout: new
-title: "Luoying’s Research Visit to Poland"
+title: "Luoyings Research Visit to Poland"
 description: " "
 image: /assets/images/luoyings-research-visit-to-poland-feature.jpg
 date:  "2025-07-09

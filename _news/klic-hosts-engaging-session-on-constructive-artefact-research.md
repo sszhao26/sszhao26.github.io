@@ -2,7 +2,7 @@
 layout: new
 title: "KLIC Hosts Engaging Session on Constructive/Artefact Research"
 description: " "
-image: /assets/images/session-on-constructive-artefact-research.jpeg
+image: /assets/images/session-on-constructive-artefact-research.jpg
 date:  "2025-08-02"
 category: Research Session
 role: Lab Admin

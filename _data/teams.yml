@@ -9,10 +9,14 @@ lab_director:
 current_members:
   - img: /assets/images/people/nuwan-small-1024x845.jpg
     name:  Nuwan Janaka
-    study: Postdoctoral  
+    study: Postdoctoral Fellow
     email: nuwanj@comp.nus.edu.sg
     website: nuwanjanaka.info
     link: https://nuwanjanaka.info/
+  - img: /assets/files/Dr-CHEN-Yang.jpeg
+    name:  CHEN Yang (Sonne)
+    study: Postdoctoral Fellow
+    email: sonnechen95@gmail.com
   - img: /assets/images/people/Yunpeng-e1642398163278.jpg
     name:  Bai Yunpeng
     study: Ph.D Student  

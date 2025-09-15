@@ -2,7 +2,7 @@
 layout: new
 title: "Welcome Postdoctoral Fellow Dr. CHEN Yang (Sonne) to the Lab!"
 description: " "
-image: /assets/images/Dr-CHEN-Yang.jpeg
+image: /assets/files/Dr-CHEN-Yang.jpeg
 date:  "2025-08-25"
 category: Postdoctoral Fellow
 role: Lab Admin

@@ -28,6 +28,7 @@ Dr. Reani concluded by discussing the implications of these findings for **respo
 This talk was part of **KLIC’s bi-weekly seminar series**, which features invited speakers and research discussions on Human–Computer Interaction and related fields.  
 
 
+  
 ### About the Speaker  
 <img src="/assets/images/manuele-reani.jpg" alt="Dr. Manuele Reani" width="30%">
 

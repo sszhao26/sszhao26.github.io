@@ -29,7 +29,7 @@ This talk was part of **KLIC’s bi-weekly seminar series**, which features invi
 
 
 ### About the Speaker  
-![-](/assets/images/manuele-reani.jpg "-" ){width="30%"}
+<img src="/assets/images/manuele-reani.jpg" alt="Dr. Manuele Reani" width="30%">
 
 **Dr. Manuele Reanna** is an Assistant Professor at the School of Management and Economics, The Chinese University of Hong Kong (Shenzhen). His research focuses on Human–Computer Interaction, Cognitive Science, and AI Design, with particular interest in how intelligent systems influence human cognition, trust, and decision-making.  
 

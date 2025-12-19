@@ -16,7 +16,7 @@ Everyone enjoyed traditional Hong Kong dishes while chatting about research, tea
 The evening ended on a warm note, reflecting the value of shared meals in strengthening academic communities and long-standing collaborations.
 
 
-Moments from SIGGRAPH Asia 2025 in Hong Kong
+_Moments from SIGGRAPH Asia 2025 in Hong Kong_
 
 ![-](/assets/images/IMG_0657.jpg "-")
 

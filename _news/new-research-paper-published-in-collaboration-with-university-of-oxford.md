@@ -4,7 +4,7 @@ title: "New Research Paper Published in Collaboration with University of Oxford"
 description: " "
 image: /assets/images/new-research-paper-published-in-collaboration-with-university-of-oxford-feature.png
 date:  "2026-01-02"
-category: Activities
+category: News
 role: Lab Admin
 ---
 A research paper co-authored by Hyeongcheol Kim and collaborators from the University of Oxford was published on December 29, 2025. The paper is available through Springer and reports findings from a collaborative research effort between the authors.

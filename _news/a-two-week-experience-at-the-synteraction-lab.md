@@ -2,7 +2,7 @@
 layout: new
 title: "A Two-Week Experience at the Synteraction Lab"
 description: "The Synteraction Lab recently welcomed Xinyi Min, a PhD student from the Kyushu Institute of Technology, Japan"
-image: /assets/images/Image5-23-35.jpg
+image: /assets/images/Image5-23-35.jpeg
 date:  "2026-02-05"
 category: news
 role: Lab Admin
@@ -19,7 +19,7 @@ The Synteraction Lab recently welcomed **Xinyi Min**, a **PhD student from the K
 
 >Finally, I would like to once again express my sincere appreciation to the professors and all members of the Synteraction Lab for providing me with this invaluable learning opportunity. This experience has offered significant insights that will greatly influence my future research and thinking.”
 
-![-](/assets/images/Image5-23-36.jpg "-")
+![-](/assets/images/Image5-23-36.jpeg "-")
 
 
 ### About the Visitor

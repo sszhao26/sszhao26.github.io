@@ -7,7 +7,7 @@ date:  "2026-02-05"
 category: news
 role: Lab Admin
 ---
-The Synteraction Lab recently welcomed Xinyi Min, a PhD student from the Kyushu Institute of Technology, Japan, for a two-week visit. During her stay, she participated in academic exchange with faculty and students. After the visit, Min wrote the following reflection on her experience at the Synteraction Lab.
+The Synteraction Lab recently welcomed **Xinyi Min**, a **PhD student from the Kyushu Institute of Technology, Japan**, for a **two-week visit**. During her stay, she participated in academic exchange with faculty and students. After the visit, Min wrote the following reflection on her experience at the Synteraction Lab.
 
 >“I am deeply grateful for the opportunity to visit the Synteraction Lab and engage in learning and academic exchange.
 
@@ -22,6 +22,6 @@ The Synteraction Lab recently welcomed Xinyi Min, a PhD student from the Kyushu 
 ![-](/assets/images/Image5-23-36.jpg "-")
 
 
-###About the Visitor
+### About the Visitor
 
 Xinyi Min is a PhD student at the Kyushu Institute of Technology, Japan, supervised by Professor Sozo Inoue. Her research focuses on elderly care, with particular interests in human-centered data analysis and psychological safety.

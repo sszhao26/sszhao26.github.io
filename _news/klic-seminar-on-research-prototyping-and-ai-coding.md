@@ -3,7 +3,7 @@ layout: new
 title: "KLIC Seminar on Research Prototyping and AI Coding"
 description: "The Kowloon Interaction Design Center (KLIC) held a seminar on March 9, from 10:00 AM to 12:00 PM, at CMC 6058."
 image: /assets/images/Image_20260311113453.jpg
-date:  "2026-02-26"
+date:  "2026-03-09"
 category: news
 role: Lab Admin
 ---

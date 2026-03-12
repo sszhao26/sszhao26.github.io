@@ -17,6 +17,12 @@ current_members:
     name:  CHEN Yang (Sonne)
     study: Postdoctoral Fellow
     email: sonnechen95@gmail.com
+  - img: /assets/images/people/Danny-e1660132459955.jpg
+    name:  Hyeongcheol Kim 
+    study: Visiting Researcher
+    email: hckim0911@gmail.com
+    website: hckim.net
+    link: https://hckim.net/
   - img: /assets/images/people/Yunpeng-e1642398163278.jpg
     name:  Bai Yunpeng
     study: Ph.D Student  
@@ -29,74 +35,44 @@ current_members:
     email: zhouchen@comp.nus.edu.sg
     website: czzoe.github.io
     link: https://czzoe.github.io/
-  - img: /assets/images/people/Peisen-Xu-1024x768.jpg
-    name:  Peisen Xu
-    study: Research Assistant & Part-time Ph.D. Student 
-    email: xpeisenx@gmail.com
-    website: peisenxu.com
-    link: https://peisenxu.com/
   - img: /assets/images/people/Cai-Runze-SW-1024x819.jpg
     name:  Cai Runze
     study: Ph.D Student  
     email: runze.cai@u.nus.edu
     website: runzecai.com
     link: http://runzecai.com/
-  - img: /assets/images/people/new-visiting-phd.jpeg
-    name:  Gu Yue
-    study: Visiting Ph.D Student
-    email:
-    website: yuegu.my.canva.site/dagbfac5ul8
-    link: https://yuegu.my.canva.site/dagbfac5ul8
-  - img: /assets/images/people/Zhang-Youpeng.jpg
-    name:  Zhang Youpeng
-    study: Research Assistant
-    email: zhangyppy@gmail.com
-    website: zhangyppy.github.io
-    link: https://zhangyppy.github.io/ZhangYoupeng.github.io/
+  - img: /assets/images/people/Peisen-Xu-1024x768.jpg
+    name:  Peisen Xu
+    study: Research Assistant & Part-time Ph.D. Student 
+    email: xpeisenx@gmail.com
+    website: peisenxu.com
+    link: https://peisenxu.com/
   - img: /assets/images/people/Luoying-2048x1639.jpg
     name:  LIN Luoying
     study: PhD Student 
     email: linluoying233@gmail.com
     website: luoying0.com
     link: https://luoying0.com/
+  - img: /assets/images/people/yaorui.jpg
+    name:  Yao Rui
+    study: PhD Student 
+    email: yaorui2-c@my.cityu.edu.hk
+  - img: /assets/images/people/shuwen.jpg
+    name:  Jiang Shuwen
+    study: PhD Student 
+    email: shuwjiang5-c@my.cityu.edu.hk
+  - img: /assets/images/people/qiuyuan.jpg
+    name:  Ren Qiuyuan
+    study: PhD Student 
+    email: qiuyuaren2-c@my.cityu.edu.hk
   - img: /assets/images/Zirui-Xiao.jpeg
     name:  Zirui Xiao
     study: MPhil Student
     email: ziruixiao2-c@my.cityu.edu.hk
     website: alien.bz
     link: https://alien.bz
-  - img: /assets/images/people/Danny-e1660132459955.jpg
-    name:  Hyeongcheol Kim 
-    study: Visiting Researcher
-    email: hckim0911@gmail.com
-    website: hckim.net
-    link: https://hckim.net/
-  - img: /assets/images/aochen-jiao.jpg
-    name:  Aochen Jiao
-    study: Research Assistant
-    email: aochen.jiao@cityu.edu.hk
-    website: aochen-jiao.github.io
-    link: https://aochen-jiao.github.io/
-  - img: /assets/images/Sam-Wang.jpg
-    name:  Sam Wang
-    study: Research Assistant
-    email: samwang9199@gmail.com
-    website: LinkedIn
-    link: https://www.linkedin.com/in/hsin-yi-wang-%E7%8E%8B%E6%96%B0%E7%BF%8C%EF%BC%89-548612284/
   
 interns_and_visiting_researchers:  
-  - img: /assets/images/people/wangpeilin-1024x819.jpg
-    name: WANG Peilin
-    interns: Intern '24
-    email: wangpeilin.lincoln@gmail.com
-    website: linkedin.com/in/peilin-wang-23b338225
-    link: https://www.linkedin.com/authwall?trk=gf&trkInfo=AQERJy_8u1NUVwAAAY8PK4cw2LlEd4V7bP3OxQ1V0GljYutQo1Dn7YvLnnhtafMSvMXpnM3sHYHgcY9rBKMWcQB5VUM9dJ8piUvuaLfmtrwV3J-It76FIotQLNmA1Ke4vnGLuRw=&original_referer=http://127.0.0.1:4000/&sessionRedirect=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fpeilin-wang-23b338225%2F
-  - img: /assets/images/people/Hu-Zhian.jpg
-    name: Hu Zhian
-    interns: Intern '24
-  - img: /assets/images/ruoxin-sun.jpeg
-    name: Ruoxin (Sylvia) Sun
-    interns: Intern '24
     
 
 graduated_phd_students:
@@ -257,6 +233,27 @@ graduated_master_students:
 
 
 alumni:
+  - name:  Yue Gu
+    intern: visiting PhD Student
+    email: 
+  - name:  Youpeng Zhang
+    intern: Research Assistant
+    email: zhangyppy@gmail.com
+  - name:  Aochen Jiao
+    intern: Research Assistant
+    email: aochen.jiao@cityu.edu.hk
+  - name:  Sam Wang
+    intern: Research Assistant
+    email: samwang9199@gmail.com
+  - name:  Wang Peilin
+    intern: Intern'24
+    email: wangpeilin.lincoln@gmail.com
+  - name:  Hu Zhian
+    intern: Intern'24
+    email: 
+  - name:  Ruoxin (Sylvia) Sun
+    intern: Intern'24
+    email: 
   - name:  Adam Nowak
     intern: Visiting Ph.D Student
     email: nowak.m.adam@gmail.com

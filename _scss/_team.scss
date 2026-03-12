@@ -5,7 +5,14 @@
 //         }
 //     }
 // }
-
+.elementor-62 {
+  .elementor-widget-image {
+    img {
+      filter: none !important;
+      transition: none;
+    }
+  }
+}
 @media (max-width: 1199px){
     .team{
         .section-container{
